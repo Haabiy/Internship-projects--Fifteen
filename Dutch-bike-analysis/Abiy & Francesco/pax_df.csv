@@ -1,0 +1,254 @@
+,station,pax_2019,tmp
+1,Abcoude,2267,
+2,Akkrum,7950,
+3,Alkmaar,21495,Alkmaar
+4,Alkmaar Noord,5046,Alkmaar Noord
+5,Almelo,8103,Almelo
+6,Almelo de Riet,2230,
+7,Almere Buiten,7594,
+8,Almere Centrum,28006,Almere Centrum
+9,Almere Muziekwijk,6355,
+10,Almere Oostvaarders,4531,
+11,Almere Parkwijk,3599,
+12,Almere Poort,569,
+13,Alphen aan den Rijn,10996,Alphen aan den Rijn
+14,Amersfoort,44831,
+15,Amersfoort Schothorst,7427,Amersfoort Schothorst
+16,Amersfoort Vathorst,3775,Amersfoort Vathorst
+17,Amsterdam Amstel,361,Amsterdam Amstel
+18,Amsterdam Bijlmer ArenA,30035,Amsterdam Bijlmer ArenA
+19,Amsterdam Centraal,19951,Amsterdam Centraal IJzijde
+20,Amsterdam Holendrecht,462,
+21,Amsterdam Lelylaan,15908,
+22,Amsterdam Muiderpoort,15149,Amsterdam Muiderpoort
+23,Amsterdam RAI,4842,Amsterdam RAI
+24,Amsterdam Sciencepark,4869,
+25,Amsterdam Sloterdijk,60472,Amsterdam Sloterdijk
+26,Amsterdam Zuid,68699,
+27,Anna Paulowna,2092,Anna Paulowna
+28,Apeldoorn,15511,Apeldoorn
+29,Apeldoorn Osseveld,1289,
+30,Arnemuiden,5170,
+31,Arnhem Centraal,4569,
+32,Arnhem Presikhaaf,277,
+33,Arnhem Velperpoort,2122,
+34,Arnhem Zuid,351,
+35,Assen,8928,Assen
+36,Baarn,4837,Baarn
+37,Barendrecht,6066,Barendrecht
+38,Beilen,2162,Beilen
+39,Bergen op Zoom,7112,Bergen op Zoom
+40,Best,6255,Best
+41,Beverwijk,5411,Beverwijk
+42,Bilthoven,5647,Bilthoven
+43,Blerick,1477,
+44,Bloemendaal,1517,Bloemendaal
+45,Bodegraven,3448,Bodegraven
+46,Borne,3340,Borne
+47,Boskoop,1432,Boskoop
+48,Boskoop Snijdelwijk,6670,
+49,Bovenkarspel Flora,7050,
+50,Bovenkarspel-Grootebroek,2336,Bovenkarspel-Grootebroek
+51,Boxtel,6835,Boxtel
+52,Breda,37053,
+53,Breda Prinsenbeek,1726,Breda Prinsenbeek
+54,Breukelen,6081,Breukelen
+55,Brummen,1077,Brummen
+56,Bunnik,2702,Bunnik
+57,Bussum Zuid,4675,Bussum Zuid
+58,Capelle Schollevaar,2466,
+59,Castricum,774,Castricum
+60,Culemborg,9711,Culemborg
+61,De Vink,3408,
+62,Delft,40435,
+63,Delft Zuid,4719,
+64,Den Dolder,2023,Den Dolder
+65,Den Haag Centraal,98818,
+66,Den Haag HS,34892,Den Haag HS
+67,Den Haag Laan van NOI,17219,Den Haag Laan van NOI
+68,Den Haag Mariahoeve,3248,Den Haag Mariahoeve
+69,Den Haag Moerwijk,3203,
+70,Den Haag Ypenburg,2654,
+71,Den Helder,4293,Den Helder
+72,Den Helder Zuid,221,Den Helder Zuid
+73,Deurne,4579,Deurne
+74,Deventer,21458,Deventer
+75,Deventer Colmschate,139,
+76,Diemen,3328,Diemen
+77,Diemen Zuid,3535,Diemen Zuid
+78,Dieren,3868,Dieren
+79,Dordrecht,24647,Dordrecht
+80,Dordrecht Zuid,1242,
+81,Driebergen-Zeist,9424,Driebergen-Zeist
+82,Driehuis,1361,Driehuis
+83,Dronten,3545,Dronten
+84,Duivendrecht,125,Duivendrecht
+85,Ede-Wageningen,19676,
+86,Eijsden,1220,
+87,Eindhoven,68154,
+88,Eindhoven Strijp-S,3612,
+89,Elst,4508,Elst
+90,Enkhuizen,2326,Enkhuizen
+91,Enschede,9645,Enschede
+92,Enschede Kennispark,3920,
+93,Ermelo,2952,Ermelo
+94,Etten-Leur,3473,Etten-Leur
+95,Geldermalsen,6761,Geldermalsen
+96,Geldrop,1624,
+97,Gilze-Rijen,3029,Gilze Rijen
+98,Goes,7087,Goes
+99,Gouda,25126,Gouda
+100,Gouda Goverwelle,3254,Gouda Goverwelle
+101,Groningen,17999,Groningen
+102,Groningen Europapark,1745,
+103,Grou-Jirnsum,8420,
+104,Haarlem,43807,
+105,Haarlem Spaarnwoude,417,Haarlem Spaarnwoude
+106,Halfweg-Zwanenburg,3063,Halfweg Zwanenburg
+107,Harde 't,146,t Harde
+108,Harderwijk,6247,Harderwijk
+109,Haren,1157,Haren
+110,Heemskerk,275,Heemskerk
+111,Heemstede-Aerdenhout,7269,Heemstede-Aerdenhout
+112,Heerenveen,6276,Heerenveen
+113,Heerhugowaard,7645,Heerhugowaard
+114,Heerlen,4642,Heerlen
+115,Heeze,17,
+116,Heiloo,4999,Heiloo
+117,Helmond,7833,Helmond
+118,Helmond Brandevoort,1727,Helmond Brandevoort
+119,Helmond Brouwhuis,1839,Helmond Brouwhuis
+120,Helmond 't Hout,1459,Helmond 't Hout
+121,Hengelo,7011,Hengelo
+122,Hertogenbosch 's,4979,s-Hertogenbosch Oost
+123,Hertogenbosch 's Oost,1378,s-Hertogenbosch Oost
+124,Hillegom,2555,Hillegom
+125,Hilversum,2749,Hilversum
+126,Hilversum Media Park,4684,
+127,Hilversum Sportpark,8132,Hilversum Sportpark
+128,Hollandsche Rading,1049,
+129,Holten,1428,Holten
+130,Hoofddorp,19659,Hoofddorp
+131,Hoogeveen,4624,Hoogeveen
+132,Hoogkarspel,2236,Hoogkarspel
+133,Hoorn,14616,Hoorn
+134,Hoorn Kersenboogerd,5161,Hoorn Kersenboogerd
+135,Horst-Sevenum,2797,Horst Sevenum
+136,Houten,8269,Houten
+137,Houten Castellum,5549,Houten Castellum
+138,Kampen Zuid,191,
+139,Kapelle-Biezelinge,1313,
+140,Koog aan de Zaan,3246,
+141,Krabbendijke,677,
+142,Krommenie-Assendelft,5709,Krommenie-Assendelft
+143,Kruiningen-Yerseke,9110,
+144,Lage Zwaluwe,8800,Lage Zwaluwe
+145,Lansingerland Zoetermeer,1465,
+146,Leeuwarden,9881,Leeuwarden
+147,Leiden Centraal,82689,
+148,Leiden Lammenschans,4836,
+149,Lelystad Centrum,14441,Lelystad Centrum
+150,Maarheeze,1481,Maarheeze
+151,Maarn,1786,
+152,Maarssen,4695,Maarssen
+153,Maastricht,11294,Maastricht
+154,Maastricht Randwyck,1090,Maastricht Randwyck
+155,Meppel,6393,Meppel
+156,Middelburg,4693,Middelburg
+157,Naarden-Bussum,9406,Naarden-Bussum
+158,Nieuw Vennep,3769,
+159,Nieuwerkerk a/d IJssel,3709,
+160,Nijkerk,367,
+161,Nijmegen,47526,Nijmegen
+162,Nijmegen Dukenburg,2668,
+163,Nijmegen Goffert,17,Nijmegen Goffert
+164,Nijmegen Lent,1477,
+165,Nunspeet,285,Nunspeet
+166,Obdam,1399,Obdam
+167,Oisterwijk,2727,Oisterwijk
+168,Olst,1364,Olst
+169,Oosterbeek,5010,
+170,Oss,8582,Oss
+171,Oss West,2119,Oss West
+172,Oudenbosch,1194,Oudenbosch
+173,Overveen,2467,Overveen
+174,Purmerend,2378,Purmerend
+175,Purmerend Overwhere,2046,Purmerend Overwhere
+176,Purmerend Weidevenne,1604,
+177,Putten,2037,Putten
+178,Ravenstein,1433,Ravenstein
+179,Rheden,8690,Rheden
+180,Rhenen,1533,Rhenen
+181,Rijssen,2482,Rijssen
+182,Rijswijk,706,Rijswijk
+183,Rilland-Bath,4640,
+184,Roermond,11339,Roermond
+185,Roosendaal,10134,Roosendaal
+186,Rosmalen,2674,Rosmalen
+187,Rotterdam Alexander,18917,Rotterdam Alexander
+188,Rotterdam Blaak,25882,Rotterdam Blaak
+189,Rotterdam Centraal,101732,Rotterdam Centraal
+190,Rotterdam Lombardijen,6768,Rotterdam Lombardijen
+191,Rotterdam Noord,2577,
+192,Rotterdam Zuid,3658,
+193,Santpoort Noord,8560,Santpoort Noord
+194,Santpoort Zuid,9920,Santpoort Zuid
+195,Sassenheim,4942,
+196,Schagen,5488,Schagen
+197,Schiedam Centrum,24246,
+198,Schiphol Airport,98071,
+199,Sittard,10482,Sittard
+200,Soest,235,
+201,Soest Zuid,2064,Soest Zuid
+202,Soestdijk,8450,Soestdijk
+203,Steenwijk,3855,Steenwijk
+204,Tiel,3404,Tiel
+205,Tiel Passewaaij,1515,
+206,Tilburg,35503,
+207,Tilburg Reeshof,3146,Tilburg Reeshof
+208,Tilburg Universiteit,7457,Tilburg West Universiteit
+209,Twello,1508,
+210,Uitgeest,5128,Uitgeest
+211,Utrecht Centraal,20736,Utrecht Centraal Knoop
+212,Utrecht Leidsche Rijn,4179,Utrecht Leidsche Rijn
+213,Utrecht Lunetten,3979,Utrecht Lunetten
+214,Utrecht Overvecht,9098,Utrecht Overvecht
+215,Utrecht Terwijde,4356,Utrecht Terwijde
+216,Utrecht Vaartsche Rijn,9233,
+217,Utrecht Zuilen,2295,Utrecht Zuilen
+218,Veenendaal Centrum,2409,
+219,Veenendaal West,1573,Veenendaal West
+220,Veenendaal-de Klomp,4712,Veenendaal-De klomp
+221,Velp,1485,Velp
+222,Venlo,4715,Venlo
+223,Vleuten,4744,Vleuten
+224,Vlissingen,2557,Vlissingen
+225,Vlissingen Souburg,9540,
+226,Voorburg,2148,Voorburg
+227,Voorhout,3435,Voorhout
+228,Voorschoten,3639,Voorschoten
+229,Vught,1917,Vught
+230,Waddinxveen,1915,
+231,Waddinxveen Noord,8980,
+232,Waddinxveen Triangel,6950,
+233,Weert,7953,Weert
+234,Weesp,10746,Weesp
+235,Wezep,1061,
+236,Wierden,1217,
+237,Wijchen,4756,Wijchen
+238,Wijhe,1259,Wijhe
+239,Woerden,13947,Woerden
+240,Wolfheze,6510,Wolfheze
+241,Wolvega,156,
+242,Wormerveer,4448,
+243,Zaandam,23687,Zaandam
+244,Zaandam Kogerveld,1463,
+245,Zaandijk Zaanse Schans,4535,
+246,Zaltbommel,3925,Zaltbommel
+247,Zandvoort aan Zee,5858,
+248,Zevenbergen,1221,Zevenbergen
+249,Zoetermeer,4868,
+250,Zoetermeer Oost,2657,Zoetermeer Oost
+251,Zutphen,12350,Zutphen
+252,Zwijndrecht,5551,Zwijndrecht
+253,Zwolle,42123,Zwolle

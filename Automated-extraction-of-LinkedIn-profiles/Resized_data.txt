@@ -1,0 +1,338 @@
+Communauté d'Agglomération du Pays de Gex
+Communauté de Communes de Miribel et du Plateau
+Vichy Communauté
+Ville de Vichy
+Communauté de Communes du Pays des écrins (Briançonnais)
+Ville de Briançon
+Metropole Nice Côte d'Azur
+Communauté d'Agglomération Sophia Antipolis
+Communauté de Communes du Pays des Vans en Cévennes
+Ville de Charleville-Mézières
+Ville de Villegailhenc
+Ville de Bram
+Communauté de Communes Millau Grands Causses
+Communauté Urbaine Caen la Mer
+Ville d’Aurillac
+Communauté d'Agglomération de La Rochelle
+Ville de La Rochelle
+Ville de La Souterraine
+Ville de Bourg-Les-Valence
+Ville de Valence
+Collectivité de Corse
+Ville de Bastia
+Conseil Départemental du Gard
+Villeneuve-Lez-Avignon
+Communauté de Communes des Coteaux du Girou
+Bordeaux Métropole
+Communauté d'Agglomération du bassin d'Arcachon Nord (COBAN)
+Communauté d'Agglomération du Bassin d'Arcachon Sud (COBAS)
+Communauté de Communes vallée de l’Hérault
+Montpellier Méditerranée Métropole
+Ville de Sète
+Conseil Départemental de l'Hérault
+Ville de Guipry-Messac
+Ville de Luitré-Dompierre
+Communauté de Communes Loches Sud Touraine
+Communauté de Communes le Gresivaudan
+Grenoble Alpes Métropole
+Communauté d’Agglomération du Grand Dole
+Espace Communautaire Lons Agglomération (ECLA)
+Ville de Dole
+Ville de Messia-sur-Sorne
+Communauté de Communes du Val d’Amour
+Conseil Départemental de la Loire
+Conseil Départemental de la Loire Atlantique
+Nantes Métropole
+Ville de La Baule-Escoublac
+Orléans Métropole
+Agglomération d'Agen
+Angers Loire Métropole
+Ville de Saumur
+Saint-Lô Agglomération
+Ville de Louverné
+Communauté d'Agglomération de Longwy
+Métropole du Grand Nancy
+Communauté de Communes des Pays du Sel et du Vermois
+Ville de Vannes
+Ville de Calan
+Ville de Quéven
+Ville de Séné
+Communauté de Communes du Pays Orne Moselle
+Ville de Thionville
+Metz Métropole
+Ville de Petite-Rosselle
+Ville de Douai
+Métropole Européenne de Lille (MEL)
+Conseil Départemental du Nord
+Communauté d’Agglomération du Douaisis (CAD)
+Communauté de Communes de la Plaine d'Estrées
+Communauté de Communes Pays de Lumbres (CCPL)
+Communauté d'Agglomération du Boulonnais
+Clermont Auvergne Métropole
+Ville de Riom
+Communauté d'Agglomération Pau Béarn Pyrénées
+Ville d’Argeles sur Mer
+Société Publique Locale Deux-Rives
+Eurométropole de Strasbourg
+Conseil Départemental du Bas-Rhin
+Ville de Saint-Louis
+Ville de Issenheim
+Ville de Buhl Haut-Rhin
+Communauté de Communes Pays Rhin-Brisach
+Communauté de Communes des Vallons du Lyonnais
+Communauté de Communes Le Grand Charolais
+Le Grand Chalon
+Communauté Urbaine du Havre Seine Métropole
+Grand Paris Sud
+Etablissement public d'Aménagement du Mantois Seine Aval (EPAMSA)
+Ville de Noisy le Roi
+Ville de Jouys en Josas
+Amiens Métropole
+Communauté d’Agglomération du Grand Montauban
+Conseil Départemental du Var
+Dracénie Provence Verdon Agglomération
+Métropole Toulon Provence Méditerranée
+Ville d'Avignon
+Ville de Jonquerettes
+Communauté de Communes du Pays de Saint-Gilles Croix de Vie
+Ville d'Avanton
+Communauté Urbaine du Grand Poitiers
+Conseil Départemental des Hauts-de-Seine
+Ville de Neuilly-sur-Seine
+Conseil Départemental du Val de Marne
+Conseil Départemental du Val d'Oise
+Ville de Montigny-lès-Cormeilles
+Ville de Kourou
+Communauté Intercommunale des VIlles Solidaires (CIVIS)
+Région Réunion
+Conseil Départemental de La Réunion
+Communauté Intercommunale du Nord de la Réunion (CINOR)
+Ville du Port
+Ville de Nouméa
+Communauté de Communes Dombes Saône Vallée
+Montluçon Communauté
+Conseil Départemental des Alpes de Haute-Provence
+Communauté d'Agglomération Gap-Tallard-Durance
+Communauté de Communes de Serre-Ponçon
+Communauté de Communes de Millau Grands Causses
+Ville de Ruelle-Sur-Touvre
+Communauté de Communes de l'île d'Oléron
+Communauté d'Agglomération de Bourges Plus
+Ville de Brive
+Lannion-Trégor Communauté
+Ville de Lannion
+Conseil Départemental du Doubs
+Grand Besançon Métropole
+Ville de Dreux
+Conseil Départemental du Finistère
+Communauté de Communes du Pays d'Iroise
+Ville de Plouédern
+Ville de Landerneau
+Ville de Plouarzel
+Brest Métropole
+Ville de Bagnols-Sur-Cèze
+Communauté de Communes de Cèze-Cévennes
+Ville de Nîmes
+Ville de Pujaut
+Communauté d'Agglomération du Bassin d'Arcachon Nord
+Communauté d'Agglomération Béziers Méditerranée
+Communauté de Communes du Pays de Lunel
+Roche aux Fées Communauté
+Communauté de Communes du Val d'Ille Aubigné
+Communauté d'Agglomération Châteauroux Metropole
+Tours Métropole Val de Loire
+Conseil Départemental de l'Isère
+Communauté de Communes de l'Oisans
+Grenoble-Alpes Métropole
+Conseil Départemental du Jura
+Communauté de Communes du Seignanx
+Mont-de-Marsan Agglomération
+Communauté d'Agglomération du Grand Dax
+Communauté de Communes Des Grands Lacs
+Saint-Etienne Métropole
+Ville de Roanne
+Communauté de Communes de Grand Lieu
+Conseil Départemental de Loire-Atlantique
+Agglomération Montargoise et Rives du Loing
+Conseil Départemental du Loiret
+Communauté d'Agglomération du Cotentin
+Ville de Granville
+Ville de Condé-sur-Vire
+Ville d'Epernay
+Ville de Pré-en-Pail-Saint-Samson
+Ville de Villaines-la-Juhel
+Communauté de Communes Mad & Moselle
+Communauté de Communes Val de Meuse-Voie Sacrée
+Ville d'Auray
+Golfe du Morbihan-Vannes Agglomération
+Nevers Agglomération
+Métropole Européenne de Lille
+Communauté de Communes du Clermontois
+Ville d'Alençon
+Communauté d'Agglomération des 2 Baies en Montreuillois
+Conseil Départemental du Puy-de-Dôme
+Ville de Bayonne
+Ville de Mouguerre
+Conseil Départemental des Pyrénées Atlantiques
+Ville de Bagnères-de-Bigorre
+Ville de Prades
+Communauté de Communes Sud Roussillon
+Conseil Départemental du Haut-Rhin
+Communauté de Communes du Pays Mornantais
+Communauté de Communes Rahin et Chérimont
+Ville de Louhans
+Conseil Départemental de la Sarthe
+Ville de La Flèche
+Le Mans Métropole
+Communauté de Communes Coeur de Tarentaise
+Communauté de Communes des Vallées d'Aigueblanche
+Ville de Marnaz
+Conseil Départemental de Haute-Savoie
+Annemasse Les Voirons Agglomération
+Grand Annecy
+Ville de Cluses
+Communauté d'Agglomération Caux Vallée de Seine
+Communauté d'Agglomération de Marne et Gondoire
+Ville de Meaux
+Etablissement Public d'Aménagement de Marne-la-Vallée
+Ville de Jouars-Pontchartrain
+Communauté d'Agglomération du Niortais
+Grand-Montauban Communauté d'Agglomération
+Conseil Départemental du Vaucluse
+Communauté de Communes du Pays Réuni d'Orange
+Communauté de Communes du Pays des Achards
+Ville de La Roche-sur-Yon
+Communauté de Communes du Pays de Saint Gilles Croix de Vie
+Communauté de Communes du Pays des Herbiers
+Ville de Châtellerault
+Grand Poitiers
+Conseil Départemental de l'Essonne
+Communauté d'Agglomération Paris Saclay
+Ville de Marnes-la-Coquette
+Etablissement Public Territorial de Plaine Commune
+Conseil Départemental de la Seine-Saint-Denis
+Ville de Noisy-le-Grand
+Conseil Départemental du Val-de-Marne
+Conseil Régional de la Guadeloupe
+Conseil Départemental de la Guadeloupe
+Ville de Saint-Laurent-du-Maroni
+Conseil Régional de la Réunion
+Société d'Equipement du Département de la Réunion
+Ville de La Possession
+Province Sud
+Agglomération du Pays-de-Gex
+Société Publique Locale Territoire d'Innovation
+Communauté de Communes de la Veyle
+Ville de Prevessin-Moens
+Conseil Départemental de l'Aisne
+Communauté d'Agglomération de Moulins
+Ville de Gap
+Ville de Mouans-Sartoux
+Communauté d'Agglomération Privas Centre Ardèche
+Ville de Saint-Clair
+Ville de Prix-lès-Mézières
+Ville de Saint-Julien-les-Villas
+Ville de Saint-Affrique
+Ville d'Aix-en-Provence
+Conseil Départemental des Bouches-du-Rhône
+Ville de Vitrolles
+Communauté d'Agglomération Lisieux Normandie
+Communauté urbaine Caen-la-Mer
+Communauté de Communes du Pays de Mauriac
+Communauté d'Agglomération Bourges Plus
+Syndicat du Canal de Berry
+Communauté d'Agglomération du Bassin de Brive
+Ville d'Auxonne
+Ville de Saint-Brieuc
+Ville de Hillion
+Pays de Montbéliard Agglomération
+Conseil Départemental de l'Eure
+Evreux Portes de Normandie
+Ville d'Anet
+Ville de Castanet-Tolosan
+Toulouse Métropole
+Ville d'Auterive
+Ville de Fenouillet
+Conseil Départemental du Gers
+Ville Andernos-les-Bains
+Sète Agglopôle Méditérranée
+Communauté de Communes des Cévennes Gangeoises et Suménoises
+Ville de Saint-Clément-de-Rivière
+Rennes Métropole
+Ville de Noyal-sur-Vilaine
+Ville de Déols
+Communauté d'Agglomération Châteauroux Métropole
+Communauté de Communes Touraine-Est-Vallées
+Ville de Saint-Martin-d'Uriage
+Charlieu-Belmont Communauté
+Ville de Renaison
+Ville de Langeac
+Communauté de Communes Châteaubriant-Derval
+Agglomération Montargoise Et rives du loing
+Syndicat Mixte des Voies Vertes du Lot
+Ville de Pont-du-Casse
+Syndicat Mixte de la Ligne Verte des Cévènnes
+Commune Nouvelle de Montrevault-sur-Evre
+Ville de Sartilly-Baie-Bocage
+Ville de Mortain-Bocage
+Communauté Urbaine du Grand Reims
+Ville de Sarzeau
+Ville de l'Île-de-Groix
+Ville de Lorient
+Ville de Beignon
+Etablissement Public d'Aménagement Alzette-Belval
+Commuanuté de Communes Sarrebourg Moselle Sud
+Communauté de Communes Flandres Lys
+Communauté d'Agglomération Maubeuge-Val de Sambre
+Communauté de communes Aire Cantilienne
+Communauté d'Agglomération de Lens Liévin
+Ville de Calais
+Ville de Billère
+Communauté Urbaine Perpignan Méditerranée Métropole
+Ville d'Argelès-sur-Mer
+Ville de Sorède
+Conseil Départemental des Pyrénées Orientales
+Communauté de Communes du Pays de Saverne + Communauté de Communes de la Mossig et du Vignoble
+Communauté de communes de l'Outre-Forêt
+Communauté d'agglomération de Haguenau
+Communauté de Communes du Pays de Wissembourg
+Ville de Thann
+Ville de Chalon-sur-Saône
+Communauté de Communes des Versants d'Aime
+Grand Lac Communauté d'Agglomération
+Communauté de Communes Usses et Rhône
+Ville de Samoëns
+Ville de Thônes
+Ville de Fillinges
+Ville de Paris
+Communauté Urbaine Le Havre Seine Métropole
+Métropole Rouen Normandie
+Conseil Départemental de Seine-et-Marne
+Ville de Chelles
+Communauté d'Agglomération Melun-Val-de-Seine
+Ville de Noisy-le-Roi
+Communauté d'Agglomération Saint Germain Boucles de Seine
+Communauté de Communes du Thouarsais
+Conseil Départemental de la Somme
+Ville de Glisy
+Ville de Castres
+Communauté d'Agglomération de Castres-Mazamet
+Ville de Montech
+Limoges Métropole
+Ville d'Eloie
+Conseil Départemental du Territoire de Belfort
+Ville de Giromagny
+Ville de Massy
+Ville de Montrouge
+Etablissement Public Territorial Plaine Commune
+Plaine Commune
+Ville de Noisy-le-Sec
+Ville de Thiais
+Ville de Chaumontel
+Ville de Les Anses d'Arlet
+Ville de Sainte-Anne
+Ville de Cayenne
+Société Publique Locale Grand Sud
+Communauté Intercommunale du Nord de la Réunion
+Ville de Saint-Paul
+Province Nord

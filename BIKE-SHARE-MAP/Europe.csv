@@ -1,0 +1,520 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,timezone,operator,operator_name,system_type,system_website,technology
+,Forlì,53,Comune di Forlì,2012-10-01,,Europe/Rome,Bicincitta,Mi Muovo in Bici,Dock-based,http://www.mimuovoinbici.it/frmLeStazioni.aspx?ID=119,Bicincitta
+Austria,10vorWien,88,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Amstetten,0,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Groß Enzersdorf,0,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Haag,10,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Hollabrunn,13,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Innsbruck,197,,,,Europe/Vienna,,Stadtrad Innsbruck Austria,,http://www.stadtrad.ivb.at/,nextbike
+Austria,Klagenfurt,0,,,,Europe/Vienna,,nextbike Klagenfurt Austria,,https://www.nextbike.at/,nextbike
+Austria,Krems Ost,1,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Austria,Laa an der Thaya,8,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Linz,274,,2021-03-11,,Europe/Vienna,City Bike Linz Rental Service GmbH ,city bike Linz,Dock-based,https://www.citybikelinz.at/en,Nextbike
+Austria,Lunz am See,0,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Marchfeld,12,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Mistelbach,10,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Austria,Mödling,149,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Neusiedler See,167,,,,Europe/Vienna,,nextbike Burgenland Austria,,https://www.nextbike.at/,nextbike
+Austria,ÖBB-Bahnhöfe,4,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Austria,Oberes Ybbstal,13,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Austria,Piestingtal,10,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Austria,Römerland,22,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Serfaus,0,,,,Europe/Vienna,,nextbike Tirol Austria,,http://www.serfaus.gv.at/,nextbike
+Austria,St.Pölten,128,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Traisen-Gölsental,31,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Tulln,39,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Vienna,648,Stadt Wien,,,Europe/Vienna,Gewista Werbegesellschaft m.b.H.,Citybike,Dock-based,https://www.citybikewien.at/en/,Citybike
+Austria,Wachau,107,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Wiener Neustadt,52,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/,nextbike
+Austria,Wienerwald,37,,,,Europe/Vienna,,nextbike Niederösterreich Austria,,https://www.nextbike.at/en/niederoesterreich/,nextbike
+Austria,Wieselburg,4,,,,Europe/Vienna,,LEIHRADL nextbike,,http://www.nextbike.de/en/,nextbike
+Belgium,Antwerp,3200,Antwerp City Council,2011-06-09,,Europe/Brussels,Clear Channel,Velo Antwerpen,Dock-based,https://www.velo-antwerpen.be/en,Smartbike
+Belgium,Brussels,3962,Region de Bruxelles-Capitale,2009-05-19,,Europe/Brussels,JCDecaux,Villo!,Dock-based,http://en.villo.be/,Cyclocity
+Belgium,Ghent,437,,2019-06-13,,Europe/Brussels,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-ghent/,Donkey Republic
+Belgium,Kortrijk,355,,2020-06-04,,Europe/Brussels,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-kortrijk-zuid-west-vlaanderen/,Donkey Republic
+Belgium,Namur,212,,,,Europe/Brussels,,Li bia velo,,,
+Bosnia,Zenica,11,,2019-10-11,,Europe/Sarajevo,Nextbike,Nextbike,Dock-based,https://www.nextbike.ba/bs/zenica/,Nextbike
+Bosnia and Herzegovina,Banja Luka,0,,,,Europe/Sarajevo,,BL-Bike,,https://www.nextbike.ba/sr/banjaluka/,nextbike
+Bosnia and Herzegovina,Sarajevo,0,,,,Europe/Sarajevo,,Sarajevo Bosnia and Herzegovina,,https://www.nextbike.ba/,nextbike
+Bosnia and Herzegovina,Tuzla,0,,,2019-05-27,Europe/Sarajevo,,Tuzla,,https://www.nextbike.ba/,nextbike
+Bulgaria,Dobrich,20,,,2018-04-25,Europe/Sofia,,nextbike Bulgaria,,http://www.nextbike.bg/,nextbike
+Croatia,Brinje,0,,,,Europe/Zagreb,,Općina Brinje,,https://www.nextbike.hr/en/brinje/,nextbike
+Croatia,Drniš,0,,,,Europe/Zagreb,,Sjedni I Vozi,,https://www.nextbike.hr/en/drnis/,nextbike
+Croatia,Gospić,0,,,,Europe/Zagreb,,Grad Gospić,,http://www.nextbike.hr/,nextbike
+Croatia,Ivanic Grad,0,,,,Europe/Zagreb,,Grad Ivanić-Grad,,https://www.nextbike.hr/en/ivanicgrad/,nextbike
+Croatia,Jastrebarsko,10,,,,Europe/Berlin,Sustav javnih bicikala d.o.o.,sit&ride,Hybrid,https://www.nextbike.hr/en/jastrebarsko/,Nextbike
+Croatia,Karlovac,0,,,,Europe/Zagreb,,nextbike,,https://www.nextbike.hr/hr/karlovac/,nextbike
+Croatia,Makarska,0,,,,Europe/Zagreb,,Grad Makarska,,http://www.nextbike.hr/,nextbike
+Croatia,Metković,0,,2017-05-06,,Europe/Zagreb,,Grad Metković,,https://www.nextbike.hr/en/metkovic/,nextbike
+Croatia,Osijek,102,,2021-12-01,,Europe/Zagreb,Sustav javnih bicikala d.o.o.,nextbike Osijek,Dock-based,https://www.nextbike.hr/en/osijek/,JSON/Nextbike
+Croatia,Pitomača,0,,2019-04-25,,Europe/Zagreb,,nextbike,Dock-based,https://www.nextbike.hr/en/pitomaca/,Nextbike
+Croatia,Poreč,0,,,,Europe/Zagreb,,Porec bike share,,https://www.porecbikeshare.com/,nextbike
+Croatia,Šibenik,20,,,,Europe/Zagreb,,Grad Šibenik,,http://www.nextbike.hr/,nextbike
+Croatia,Sisak,0,,,,Europe/Zagreb,,Grad Sisak,,http://www.nextbike.hr/,nextbike
+Croatia,Slavonski Brod,0,,,,Europe/Zagreb,,Grad Slavonski Brod,,https://www.nextbike.hr/en/slavonskibrod/,nextbike
+Croatia,Split,27,,,,Europe/Zagreb,nextbike,Sjedni I Vozi,Dock-based,https://www.nextbike.hr/en/split/,nextbike
+Croatia,Velika Gorica,0,,,,Europe/Zagreb,,Grad Velika Gorica,,http://www.nextbike.hr/,nextbike
+Croatia,Vinkovci,15,,2021-12-01,,Europe/Zagreb,Sustav javnih bicikala d.o.o.,Nextbike,Dock-based,https://www.nextbike.hr/hr/vinkovci/,Nextbike
+Croatia,Vukovar,0,,,,Europe/Zagreb,,Grad Vukovar,,https://www.nextbike.hr/en/vukovar/,nextbike
+Croatia,Zadar,0,,,,Europe/Zagreb,,Grad Zadar,,http://www.nextbike.hr/,nextbike
+Croatia,Zagreb,0,,,,Europe/Zagreb,,nextbike Croatia,,http://www.nextbike.hr/,nextbike
+Cyprus,Limassol,93,,,,Europe/Athens,,nextbike Cyprus,,http://www.nextbike.com.cy/,nextbike
+Cyprus,Nicosia,132,,,,Europe/Athens,Nextbike,Nextbike Nicosia,,https://www.nextbike.com.cy/el/nicosia/,Nextbike
+Czech Republic,Jihlava,84,,2022-04-01,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Dock-based,https://www.nextbikeczech.com/en/mesto/jihlava-2/,Nextbike
+Czechia,Beroun,67,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/berounsko/,Nextbike
+Czechia,Brno,100,Brno,2020-03-15,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/brno/,Nextbike
+Czechia,Frýdek-Místek,0,,2021-03-31,,Europe/Prague,nextbike,nextbike,Dock-based,https://www.nextbikeczech.com/frydek-mistek/,nextbike
+Czechia,Havířov,45,City of Havířov,2019-06-18,,Europe/Prague,nextbike Czech Republic s.r.o.,nextbike Havířov,Dock-based,https://nextbikeczech.com/en/havirov/,Nextbike
+Czechia,Hradec Králové,86,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/hradeckralove/,Nextbike
+Czechia,Kladno,82,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/kladno/,Nextbike
+Czechia,Krnov,59,,2021-05-01,,Europe/Prague,nextbike Czech Republic sro,nextbike,Dock-based,https://www.nextbikeczech.com/krnov/,Nextbike
+Czechia,Mladá Boleslav and Mnichovo Hradiště,174,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/mladaboleslav/,Nextbike
+Czechia,Olomouc,288,,2020-03-06,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/olomouc/,Nextbike
+Czechia,Opava,82,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/opava/,Nextbike
+Czechia,Ostrava,520,,,,Europe/Prague,,nextbike,Dock-based,,Nextbike
+Czechia,Pardubice,92,,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/pardubice/,Nextbike
+Czechia,Písek,84,,2021-05-01,,Europe/Prague,nextbike Czech Republic sro,nextbike,Dock-based,https://www.nextbikeczech.com/pisek/,Nextbike
+Czechia,Prague and Říčany,792,Prague,,,Europe/Prague,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://en.nextbikeczech.com/praha/,Nextbike
+Czechia,Prostějov,0,,,,Europe/Prague,nextbike Czech Republic s.r.o.,nextbike,Dock-based,https://www.nextbikeczech.com/en/mesto/prostejov-en/,Nextbike
+Czechia,Rychnovsko,40,,2021-05-01,,Europe/Prague,nextbike Czech Republic sro,nextbike,Dock-based,https://www.nextbikeczech.com/rychnovsko/,Nextbike
+Czechia,Uherské Hradiště,70,,2021-04-01,,Europe/Prague,nextbike Czech Republic sro,nextbike,Dock-based,https://www.nextbikeczech.com/uherske-hradiste/,Nextbike
+Czechia,Zlín,102,,2021-04-14,,Europe/Prague,nextbike Czech Republic sro,nextbike,Dock-based,https://www.nextbikeczech.com/zlin/,Nextbike
+Estonia,Tallinn,0,,2016-10-20,,Europe/Tallinn,nextbike,SIXT jalgrattarent,Hybrid,https://www.sixtbicycle.ee/,nextbike
+Estonia,Tartu,340,Tartu City Government,2019-06-09,,Europe/Tallinn,Tartu City Transport,Tartu Smart Bike Share,Dock-based,https://ratas.tartu.ee/,Bewegen
+Finland,Hamina,0,,,,Europe/Helsinki,Kaakau,Donkey Republic,Dock-based,https://kaakau.fi/hamina/,Donkey Republic
+Finland,Helsinki,4367,Helsinki City Transport,,,Europe/Helsinki,HSL,HSL City bikes,Extendable dock-based,https://www.hsl.fi/en/citybikes,Smoove
+Finland,Imrata,0,,,,Europe/Helsinki,Kaakau,Donkey Republic,Dock-based,https://kaakau.fi/imatra/?lang=en,Donkey Republic
+Finland,Kotka,75,,,,Europe/Helsinki,Kaakau,Donkey Republic,Dock-based,https://kaakau.fi/kotka/,Donkey Republic
+Finland,Kouvola,0,,,,Europe/Helsinki,Kaakau,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-kouvola/,Donkey Republic
+Finland,Lappeenranta,119,,,,Europe/Helsinki,Kaakau,Donkey Republic,Dock-based,https://kaakau.fi/lappeenranta/?lang=en,Donkey Republic
+Finland,Oulu,0,City of Oulu,,2020-11-03,Europe/Helsinki,nextbike,Sykkeli,Dock-based,https://kaupunkipyorat.ouka.fi/en/oulu/kaupunkipyorat/home,nextbike
+Finland,Porvoo,117,,,,Europe/Helsinki,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-porvoo/,Donkey Republic
+Finland,Turku,20,City of Turku,2018-05-01,2021-09-30,Europe/Helsinki,Föli Turku Region Traffic,Föli-fillarit,Hybrid,https://www.foli.fi/en/citybikes,Smoove
+Finland,Vantaa,891,City of Vantaa,2019-06-17,,Europe/Helsinki,HSL,Vantaa City Bikes,Dock-based,https://kaupunkipyorat.hsl.fi/en/vantaa,HSL
+Finland,Vuosaari,31,HSL,2019-04-15,2020-02-11,Europe/Helsinki,Samocat,cityscooters,Dock-based,https://www.hsl.fi/en/cityscooters,Samocat
+France,Agen,15,,,,Europe/Paris,,Tempo Vélo,Dock-based,https://tempovelo.ecovelo.mobi/,Ecovelo
+France,Amiens,216,,,,Europe/Paris,,Velam,,,
+France,Angers,234,,2017-10-23,,Europe/Paris,Pony,Pony,Dock-based,https://getapony.com/en,Pony
+France,Avignon,152,,,,Europe/Paris,Smoove,Velopop,Dock-based,https://www.velopop.fr/en,Smoove
+France,Belfort,238,,,,Europe/Paris,,Optymo,,,
+France,Besançon,179,,,,Europe/Paris,,VéloCité,,,
+France,Bordeaux,721,Transports Bordeaux Metropole,2010-02-20,,Europe/Paris,Allo V³,VCub,Dock-based,https://www.vcub.fr/,Keolis
+France,Bordeaux,39,,2019-06-04,,Europe/Paris,Pony,Pony,Dock-based,https://getapony.com/en,Pony
+France,Bordeaux,2,,,,Europe/Paris,Zoov,Zoov,Dock-based,https://www.zoov.eu/en/bordeaux,JSON/GBFS
+France,Caen,223,Communauté urbaine Caen la mer,2018-01-31,,Europe/Paris,Keolis,Vélolib,Dock-based,https://www.twisto.fr/reseau-twisto/nos-mobilites/twisto-velo.html,
+France,Calais,188,,,,Europe/Paris,,Vel'in,,,
+France,Carcassonne,36,Ville de Carcassonne,2020-12-19,2021-12-19,Europe/Paris,Ville de Carcassonne,CYCLOlib,Dock-based,,Urban Sharing
+France,Chalon-sur-Saône,4,,2013-03-01,2016-01-28,Europe/Paris,,Reflex,,http://www.smoove.fr/chalon-sur-saone,
+France,Clermont-Ferrand,407,,,,Europe/Paris,Moventia,C.vélo,Dock-based,https://www.c-velo.fr/,PBSC
+France,Dijon,264,Dijon Métropole,,,Europe/Paris,Keolis,DiviaVélodi,Dock-based,https://www.divia.fr/page/diviavelodi,
+France,Grenoble,74,,,,Europe/Paris,,Smoove,,,
+France,Grenoble,0,,2020-09-01,,Europe/Paris,Pony,Pony,Dock-based,https://getapony.com/en,Pony
+France,La Baule-Escoublac,62,,,,Europe/Paris,,Le Velo Baulois,Dock-based,https://labaule.ecovelo.mobi/,Ecovelo
+France,La Rochelle,500,Communauté d'Agglomération de La Rochelle,,,Europe/Paris,Yélo,Yélo Vélo,Dock-based,https://yelo.agglo-larochelle.fr/services/libre-service-velos/,
+France,Lille & Roubaix,1979,Transpole,,,Europe/Paris,Transpole,V'Lille,Dock-based,https://www.transpole.fr/cms/institutionnel/vlille-carto/,Keolis
+France,Lyon,3600,,,,Europe/Paris,JCDecaux,Vélo'V,,,
+France,Marseillan,7,,,,Europe/Paris,,EcoVelo,Dock-based,,EcoVelo
+France,Marseille,738,,,,Europe/Paris,,Le vélo,,,
+France,Massy,19,,,,Europe/Paris,Zoov,Zoov,Dock-based,https://www.zoov.eu/en/grandparis,Zoov
+France,Montpellier,263,,,,Europe/Paris,,Vélomagg',,,
+France,Mulhouse,227,,,,Europe/Paris,,VéloCité,,,
+France,Nancy,230,,,,Europe/Paris,,vélOstan'lib,,,
+France,Nantes,864,,,,Europe/Paris,,Bicloo,,,
+France,Nice,1167,,,,Europe/Paris,,Vélobleu,Dock based,https://www.velobleu.org/en/,
+France,Paris,286,,2021-03-04,,Europe/Paris,Pony,Pony,Dock-based,https://getapony.com/en,Pony
+France,Paris,13992,Mairie de Paris,2007-07-15,,Europe/Paris,Smovengo,Vélib,Extendable dock-based,https://www.velib2018.com/,Smoove
+France,Paris: Cergy/Pontoise,311,,,,Europe/Paris,,Velo2,,,
+France,Paris: Créteil,84,,,,Europe/Paris,,Cristolib,,,
+France,Reims,87,,2019-06-08,,Europe/Paris,Ecovelo,Zébullo,Dock-based,https://zebullo.ecovelo.mobi/#/home,
+France,Rennes,580,Ville de Rennes et Rennes Métropole,,,Europe/Paris,Keolis,STAR,Dock-based,https://www.levelostar.fr/,Keolis
+France,Rouen,231,,,,Europe/Paris,,cy'clic,,,
+France,Saint-Nazaire,0,,2021-05-10,,Europe/Paris,Stran,vélYcéo,Dock-based,https://www.velyceo.com/,Ecovelo
+France,St Etienne,237,Saint-Etienne Métropole,,,Europe/Paris,,VéliVert,Dock-based, http://www.velivert.fr/,
+France,Strasbourg,191,Compagnies des Transports Strasbourgeois,,,Europe/Paris,Strasbourg Mobilités,Vélhop,Dock-based,https://velhop.strasbourg.eu/?lang=en,Smoove
+France,Toulouse,2344,,,,Europe/Paris,,Vélô,,,
+France,Valence,155,Valence-Romans Déplacemlents,,,Europe/Paris,Citea,Libélo,,,PBSC
+France,Vannes,50,Gulf of Morbihan-Vannes agglomeration,2018-06-09,,Europe/Paris,Smoove,Vélocéo,,https://veloceo.kiceo.fr/,Smoove
+Germany,Augsburg,7,,,,Europe/Berlin,,nextbikeSWA Rad,,http://www.swa-rad.de/,nextbike
+Germany,Bad Oeynhausen,29,,2020-09-04,,Europe/Berlin,Nextbike,Oeynrad,Dock-based,https://www.nextbike.de/en/badoeynhausen/,Nextbike
+Germany,Baden-Baden,30,,,,Europe/Berlin,,KVV.nextbike,,https://www.kvv-nextbike.de/de/,nextbike
+Germany,Bergische Land,34,,,,Europe/Berlin,nextbike GmbH,Bergisches e-Bike,Hybrid,https://en.nextbikeczech.com/bergisch/,Nextbike
+Germany,Berlin,1275,,,,Europe/Berlin,,nextbike Berlin,,https://www.nextbike.de/,nextbike
+Germany,Berlin,766,,,,Europe/Berlin,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-berlin/,Donkey Republic
+Germany,Berlin-Buch,0,,,,Europe/Berlin,,nextbike,Dock-based,,Nextbike
+Germany,Bielefeld,1,,,,Europe/Berlin,,nextbike,,https://www.nextbike.de/en/bielefeld/,nextbike
+Germany,Bochum,195,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Bonn,0,,,,Europe/Berlin,,nextbike,Dock-based,,Nextbike
+Germany,Bottrop,25,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Bremen,400,Bremen Bewegen,2018-06-19,,Europe/Berlin,nextbike,WK-Bike,Hybrid,https://www.wk-bike.de/en/bremen/,nextbike
+Germany,Bruchsal,19,,,,Europe/Berlin,Nextbike,KVV.nextbike,Hybrid,https://www.kvv-nextbike.de/de/bruchsal/,Nextbike
+Germany,Brunswick,107,,,,Europe/Berlin,nextbike Czech Republic s.r.o.,Nextbike,Hybrid,https://www.nextbike.de/en/braunschweig/,Nextbike
+Germany,Cologne,0,,,,Europe/Berlin,,KVB Rad Germany,,https://www.kvb-rad.de/,nextbike
+Germany,Dortmund,243,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Dresden,269,,,,Europe/Berlin,,sz-bike Germany,,http://www.sz-bike.de/,nextbike
+Germany,Duisburg,138,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Düsseldorf,175,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Eckernförde,69,,2021-05-01,,Europe/Berlin,nextbike GmbH,SprottenFlotte,Dock-based,https://www.nextbike.de/de/eckernfoerde/,Nextbike
+Germany,Eifel and Rhine-Voreifel,76,,,,Europe/Berlin,Nextbike,Eifel E-Bike and RVK e-Bike,Dock-based,https://www.nextbike.de/en/eifel-ebike/,Nextbike
+Germany,Erfurt,70,,,,Europe/Berlin,nextbike GmbH,nextbike Erfurt,Hybrid,https://www.nextbike.de/en/erfurt/,nextbike
+Germany,Essen,219,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Flensburg,29,,,2019-12-06,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Frankfurt,96,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Freiburg,30,,2019-05-17,,Europe/Berlin,,Frelo,,https://www.frelo-freiburg.de/de/,nextbike
+Germany,Friedrichshafen,0,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Gaggenau,13,,2021-07-28,,Europe/Berlin,nextbike GmbH,KVV.nextbike,Dock-based,https://www.kvv-nextbike.de/en/gaggenau/,nextbike
+Germany,Gelsenkirchen,45,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Gießen,70,,,,Europe/Berlin,nextbike GmbH,nextbike Gießen,Hybrid,https://www.nextbike.de/en/giessen/,nextbike
+Germany,Greifswald,0,,,,Europe/Berlin,UsedomRad GmbH,StadtRad,Dock-based,https://stadtrad-greifswald.de/,Nextbike
+Germany,Gütersloh,20,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Hamburg,134,,,2021-04-30,Europe/Berlin,nextbike,nextbike Germany,,https://www.nextbike.de/en/hamburg/,nextbike
+Germany,Hamm,24,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Hanover,1,,,,Europe/Berlin,,nextbike,,http://www.nextbike.de/en/,nextbike
+Germany,Herne,5,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Kaiserslautern,0,,,,Europe/Berlin,,VRNnextbike,,http://www.vrnnextbike.de/,nextbike
+Germany,Karlsruhe,70,,,,Europe/Berlin,,KVV.nextbike,,http://www.faecherrad.de/,nextbike
+Germany,Kassel,70,,,,Europe/Berlin,nextbike GmbH,nextbike Kassel,Hybrid,https://www.nextbike.de/de/kassel/,nextbike
+Germany,Kiel,250,,2019-07-06,,Europe/Berlin,nextbike,SprottenFlotte Kiel,Dock-based,https://www.nextbike.de/en/kielregion/,nextbike
+Germany,Lahr,70,,,,Europe/Berlin,,nextbike Lahr,,https://www.nextbike.de/de/lahr/,nextbike
+Germany,Landau in der Pfalz,69,,,,Europe/Berlin,Nextbike,VRNnextbike,Hybrid,https://www.vrnnextbike.de/de/landau/,Nextbike
+Germany,Leipzig,205,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Leverkusen,0,,,,Europe/Berlin,nextbike,wupsiRad,Dock-based,https://www.wupsirad.de/en/leverkusen/,nextbike
+Germany,Lippstadt,0,,,,Europe/Berlin,,nextbike,Dock-based,,Nextbike
+Germany,Magdeburg,49,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Mainz,957,Mainzer Mobilitaet,,,Europe/Berlin,MVGmeinRad,meinRad,Dock-based,https://www.mainzer-mobilitaet.de/meinrad/meinradapp,MVGmeinRad
+Germany,Mannheim & Heidelberg,1680,,,,Europe/Berlin,,VRNnextbike,,http://www.vrnnextbike.de/,nextbike
+Germany,Marburg,0,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Mönchengladbach,0,,,,Europe/Berlin,,nextbike,Dock-based,,Nextbike
+Germany,Mülheim a.d.R.,102,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Munich,25,Stadtwerke München GmbH (SWM),2015-10-13,,Europe/Berlin,Münchner Verkehrsgesellschaft mbH (MVG),MVG Rad,Hybrid,https://www.mvg.de/services/mobile-services/mvg-rad.html,Nextbike
+Germany,Neustadt an der Weinstraße,70,,,,Europe/Berlin,Nextbike,VRNnextbike,Hybrid,https://www.vrnnextbike.de/de/neustadt/,Nextbike
+Germany,Norderstedt,98,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Nuremberg,292,,,,Europe/Berlin,,NorisBike Germany,,http://www.norisbike.de/,nextbike
+Germany,Oberhausen,55,,,,Europe/Berlin,,metropolradruhr Germany,,http://www.metropolradruhr.de/,nextbike
+Germany,Offenbach am Main,8,,,2019-03-13,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Offenburg,43,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Oldenburg,52,,,,Europe/Berlin,Bremer Tageszeitungen AG,OLi-Bike,Dock-based,https://www.oli-bike.de/en/,Nextbike
+Germany,Plön,3,,2021-07-01,,Europe/Berlin,Nextbike,SprottenFlotte,Dock-based,https://www.kielregion.de/sprottenflotte/,Nextbike
+Germany,Potsdam,178,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Preetz,41,,2021-05-01,,Europe/Berlin,Nextbike,SprottenFlotte,Dock-based,https://www.nextbike.de/en/preetz/,Nextbike
+Germany,Quickborn,13,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Rendsburg,45,,2021-04-22,,Europe/Berlin,nextbike GmbH,SprottenFlotte,Dock-based,https://www.nextbike.de/de/rendsburg/,Nextbike
+Germany,Rhine-Sieg,237,Rhein-Sieg-Verkehrsgesellschaft mbH,2020-10-03,,Europe/Berlin,nextbike GmbH,RSVG-Bike,Dock-based,https://www.nextbike.de/en/rsvg/,Nextbike
+Germany,Rüsselsheim am Main,0,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Stuttgart Regional,0,,,2018-10-31,Europe/Berlin,,ebikestation Stuttgart Germany,,https://www.e-bike-stationen.de/,nextbike
+Germany,Tübingen,53,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/de/tuebingen/,nextbike
+Germany,Usedom,820,,,,Europe/Berlin,,UsedomRadUsedomRad Germany,,http://usedomrad.de/,nextbike
+Germany,Wiesbaden,0,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Germany,Würzburg,0,,,,Europe/Berlin,,nextbike Germany,,https://www.nextbike.de/,nextbike
+Gibraltar,Gibraltar,79,,,2020-04-13,Europe/Gibraltar,Redibike,Redibike,Dock-based,http://www.redibike.gi/,Homeport
+Greece,Athens: Keratsini,0,,,,Europe/Athens,,EasyBike,,,
+Greece,Athens: Maroussi,20,,,,Europe/Athens,,Cyclopolis,,,
+Greece,Didymóteicho,0,,,,Europe/Athens,,EasyBike,,,
+Greece,Karditsa,0,,,,Europe/Athens,,EasyBike,,,
+Greece,Komotini,0,,,,Europe/Athens,,EasyBike,,,
+Hungary,Budapest,1357,,,,Europe/Budapest,BKK Centre for Budapest Transport,MOL Bubi Hungary,Dock-based,http://molbubi.bkk.hu/,nextbike
+Hungary,Debrecen,20,Debrecen University,,,Europe/Budapest,Students Union Debrecen University,UNIBIKE,Dock-based,https://unibike.unideb.hu/en,Neuzer
+Hungary,Gyor,170,Győr County Local Government,2015-09-07,,Europe/Budapest,Cycleme,GyorBike,Dock-based,https://www.gyorbike.hu/en,Neuzer
+Ireland,Cork,239,,,,Europe/Dublin,An Rothar Nua,TFI Bikes,,https://www.bikeshare.ie/,
+Ireland,Dublin,1296,Dublin City Council,,,Europe/Dublin,JC Decaux,Just Eat dublinbikes,Dock-based, http://www.dublinbikes.ie/,
+Ireland,Dublin,180,,2017-09-08,,Europe/Dublin,Bleeper,Bleeper,Dock-based,https://www.bleeperactive.com/,YoBike
+Ireland,Dublin,20,,2022-03-16,,Europe/Dublin,Zipp,Zipp,Dock-based,https://www.zippmobility.com/,Joyride
+Ireland,Dublin (Moby),0,Dublin City Council,2020-02-29,,Europe/Dublin,Moby Bikes,Moby,Marked Hubs,https://app.mobymove.com/,Homeport
+Ireland,Galway,157,,,,Europe/Dublin,An Rothar Nua,TFI Bikes,,https://www.bikeshare.ie/,
+Ireland,Limerick,158,,,,Europe/Dublin,An Rothar Nua,TFI Bikes,,https://www.bikeshare.ie/,
+Italy,Arezzo,24,Comune di Arezzo,2011-03-21,,Europe/Rome,Bicincitta,ARbike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=84,Bicincitta
+Italy,Bergamo,298,,,,Europe/Rome,nextbike GmbH,La BiGi,Dock-based,https://www.nextbike.it/en/,Nextbike
+Italy,Brescia,-1,,,,Europe/Rome,,,,,
+Italy,Cadore,33,,2020-07-18,,Europe/Rome,Bicincitta,Cime bike sharing,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=264,Bicincitta
+Italy,Cagliari,50,,,,Europe/Rome,,,,,
+Italy,Chivasso,33,Comune Chivasso,2010-01-02,,Europe/Rome,Bicincittà,Bicincittà,Dock-based,http://www.bicincittabip.com/frmLeStazioni.aspx?ID=201,Bicincittà
+Italy,Como,50,,,,Europe/Rome,,,,,
+Italy,Cremona,22,Comune di Cremona,2010-09-01,,Europe/Rome,Bicincitta, Scegli in Bici,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=178,Bicincitta
+Italy,Genoa,50,,,,Europe/Rome,,,,,
+Italy,Imola,25,Comune Imola,2014-09-20,,Europe/Rome,Bicincitta,Mi Muovo in Bici,Dock-based,http://www.mimuovoinbici.it/frmLeStazioni.aspx?ID=196,Bicincitta
+Italy,La Spezia,50,,,,Europe/Rome,,,,,
+Italy,Lecce,40,Comune Lecce,2014-04-25,,Europe/Rome,Bicincitta,Lebike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=159,Bicincitta
+Italy,Lecco,14,Comune Lecco,2011-09-29,,Europe/Rome,Bicincitta, BluBike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=49,Bicincitta
+Italy,Livorno,20,Comune di Livorno,2012-11-19,,Europe/Rome,Bicincitta,PedaLIamo,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=226,Bicincitta
+Italy,Manerba del Garda,8,Comune Manerba del Garda,2012-08-01,,Europe/Rome,Bicincitta,Manerba in Bici,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=102,Bicincitta
+Italy,Milan,4542,Comune di Milano,,,Europe/Rome,Clear Channel,BikeMi,Dock-based,https://bikemi.com/en,Urban Sharing
+Italy,Monopoli,11,,2014-11-06,,Europe/Rome,Bicincitta,MonopoliBike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=191,Bicincitta
+Italy,Montecatini Terme,50,,,,Europe/Rome,,,,,
+Italy,Monteriggioni,0,,2021-01-01,2021-07-01,Europe/Rome,Bicincitta,Bicincitta,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=274,Bicincitta
+Italy,Monza,34,,2016-03-31,,Europe/Rome,Bicincitta,MonzaBikeSharing,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=224,Bicincitta
+Italy,Olbia,10,,2014-08-01,,Europe/Rome,Bicincitta,Olbia Bike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=194,Bicincitta
+Italy,Padua,50,,,,Europe/Rome,,,,,
+Italy,Parma,-1,,,,Europe/Rome,,,,,
+Italy,Pavia,12,,,,Europe/Rome,,,,,
+Italy,Perugia,21,Comune Perugia,2013-06-01,,Europe/Rome,Bicincitta,Bici Perugia,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=122,Bicincitta
+Italy,Pisa,137,,,,Europe/Rome,,CICLOPI,, http://www.ciclopi.eu/,
+Italy,Reggio Calabria,32,Comune di Reggio Calabria,2019-06-17,,Europe/Rome,Bicincitta,Reggio in Bici,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=261,Bicincitta
+Italy,Rome,21,,,,Europe/Rome,,,,,
+Italy,Rome,2674,,2019-10-22,,Europe/Rome,Lime,JUMP by Lime,Dock-based,,JUMP
+Italy,Rome,72,,2019-11-15,,Europe/Rome,Helbiz,Helbiz,Dock-based,https://helbiz.com/cities/rome,Helbiz
+Italy,Rovereto,50,,,,Europe/Rome,,,,,
+Italy,San Donato Milanese,50,,,,Europe/Rome,,,,,
+Italy,Sassari,6,,2017-08-08,,Europe/Rome,Bicincitta,Ciclacitta,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=254,Bicincitta
+Italy,Sestri Levante,21,,2012-05-26,,Europe/Rome,Bicincitta,TigullionBike,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=80,Bicincitta
+Italy,Siena,50,,,,Europe/Rome,,,,,
+Italy,Silvi and Montesilvano,20,,2021-05-22,,Europe/Rome,Bicincitta,Costa Blu,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=268,Bicincitta
+Italy,Taranto,14,Comune di Taranto,2021-03-09,,Europe/Rome,Bicincitta,PisTA,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=270,Bicincitta
+Italy,Terni,29,Comune di Terni,2009-01-01,,Europe/Rome,Bicincitta,Valentina,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=134,Bicincitta
+Italy,Trento,50,,,,Europe/Rome,,,,,
+Italy,Treviso,50,,,,Europe/Rome,,,,,
+Italy,Trieste,80,Comune di Trieste,2020-02-03,,Europe/Rome,Bicincitta,BiTS,Dock-based,https://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266,Bicincitta
+Italy,Turin,163,,,,Europe/Rome,,ToBike,,,
+Italy,Udine,50,,,,Europe/Rome,,,,,
+Italy,Venice,50,,,,Europe/Rome,,,,,
+Italy,Vercelli,17,Comune di Vercelli,2010-11-11,,Europe/Rome,Bicincitta,Bicincitta,Dock-based,http://www.bicincittabip.com/frmLeStazioni.aspx?ID=235,Bicincitta
+Italy,Verona,477,Comune di Verona,,,Europe/Rome,Clear Channel,Verona Bike,Dock-based,https://bikeverona.it/,Urban Sharing
+Latvia,Jurmala,23,,,,Europe/Riga,,SiXT Latvia,,http://www.sixtbicycle.lv/,nextbike
+Latvia,Riga,105,,,,Europe/Riga,SIA Nextbike LV,SiXT Latvia,,http://www.nextbike.lv/en/,nextbike
+Lithuania,Vilnius,289,,,,Europe/Vilnius,,Cyclocity,, http://www.cyclocity.lt/,
+Luxembourg,Esch-sur-Alzette,337,,2009-05-18,,Europe/Luxembourg,CIGL Esch-sur-Alzette,Vël‘OK,Dock-based,https://velok.lu/,
+Luxembourg,Luxembourg City,660,Ville de Luxembourg,2008-03-21,,Europe/Luxembourg,JCDecaux,Vel'oH!,,http://www.en.veloh.lu/,Cyclocity
+Malta,Malta,0,,,,Europe/Malta,,nextbike Malta,,http://www.nextbike.com.mt/,nextbike
+Monaco,Monaco,100,Monaco Government,,,Europe/Paris,Compagnie des Autobus de Monaco,Monabike,Dock-based,https://monabike.mc/,PBSC
+Montenegro,Budva,8,,2021-06-19,,Europe/Podgorica,Nextbike,Nextbike,Dock-based,https://www.nextbike.me/en/budva/,Nextbike
+Netherlands,Almelo,20,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Netherlands,Amsterdam,12,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Netherlands,Delft,46,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Netherlands,Den Bosch,76,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Netherlands,Dordrecht,50,,,2021-11-30,Europe/Amsterdam,Donkey Republic,Arriva Nextbike,Hub-based,https://www.donkey.bike/cities/bike-rental-dordrecht/,Donkey Republic
+Netherlands,Enschede and Hengelo,49,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Netherlands,Maastricht,0,,,,Europe/Amsterdam,,Arriva Nextbike,Hybrid,http://www.nextbike.nl/,nextbike
+Netherlands,Netherlands,7931,NS,,,Europe/Amsterdam,NS,OV-fiets,Dock-based,https://www.ns.nl/en/door-to-door/ov-fiets,NS
+Netherlands,Rotterdam,673,,,,Europe/Amsterdam,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-rotterdam/,Donkey Republic
+Netherlands,Rotterdam,137,,,,Europe/Amsterdam,BAQME,BAQME,Dock-based,https://www.baqme.com/en/,Joyride
+Netherlands,The Hague,118,,2019-05-15,,Europe/Amsterdam,HTM,HTM Fiets,Dock-based,https://www.htm.nl/ons-vervoer/htm-fiets,
+Netherlands,The Hague,257,,,,Europe/Amsterdam,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-the-hague/,Donkey Republic
+Netherlands,The Hague,64,,,,Europe/Amsterdam,BAQME,BAQME,Dock-based,https://www.baqme.com/en/,Joyride
+Netherlands,The Hague,296,,,,Europe/Amsterdam,Bondi,Bondi,Dock-based,https://www.bondi.city/en-gb,Joyride
+Norway,Bergen,300,,2018-05-01,,Europe/Oslo,Urban Sharing,Bergen City Bike,Physical and virtual stations,https://bergenbysykkel.no/,Urban Sharing
+Norway,Drammen,103,,2001-04-28,2021-12-01,Europe/Oslo,,Bysykkel,,https://www.drammenbysykler.no/,
+Norway,Lillestrøm,58,,,,Europe/Oslo,JCDecaux,Bysykkel,Dock-based,http://www.bysykkel.org/,Cyclocity
+Norway,Oslo,2048,,,,Europe/Oslo,Urban Sharing,Oslo City Bike,Dock-based,https://oslobysykkel.no/en,Urban Sharing (bikes/stations by ShareBike)
+Norway,Trondheim,300,,,,Europe/Oslo,Urban Sharing,Trondheim City Bike,Physical and virtual stations,https://trondheimbysykkel.no/,Urban Sharing
+Poland,Bemowo,0,,2012-04-01,2015-01-01,Europe/Warsaw,,Bemowo Bike,,https://nextbike.pl/en/miasta/bemowo-bike/,nextbike
+Poland,Białystok,511,,,,Europe/Warsaw,,BIKeR Białystok Poland,,http://www.bikerbialystok.pl/,nextbike
+Poland,Bielsko-Biała,79,,,,Europe/Warsaw,Bike U,BBbike,Dock-based,https://bbbike.eu/,Homeport
+Poland,Bydgoszcz,79,,,,Europe/Warsaw,Bike U,BRA,Dock-based,https://www.bra.org.pl/?lang=2,Homeport
+Poland,Ciechanów,200,,,,Europe/Warsaw,Nextbike Polska S.A.,Ciechanowski Rower Miejski,Dock-based,https://ciechanowskirower.pl/en/,nextbike
+Poland,Częstochowa,0,,2017-04-12,,Europe/Warsaw,Nextbike Polska S.A.,Częstochowski Rower Miejski,Dock-based,https://rower.czestochowa.pl/,nextbike
+Poland,Gliwice,0,,2021-05-29,,Europe/Warsaw,ROOVEE,GRM by ROOVEE,,https://gliwickirowermiejski.pl/,ROOVEE
+Poland,Gniezno,178,,,,Europe/Warsaw,ROOVEE,Gnieźnieński Rower Miejski,Dock-based,https://rowergniezno.eu/,ROOVEE
+Poland,Grodzisk Mazowiecki,30,,,,Europe/Warsaw,,GRM Grodzisk Poland,,http://www.rowery.grodzisk.pl/,nextbike
+Poland,Jastrzębie-Zdrój,100,,,,Europe/Warsaw,ROOVEE,JASkółka,Hub-based,https://rower.jastrzebie.pl/,ROOVEE
+Poland,Kalisz,0,,,,Europe/Warsaw,,Kaliski Rower Miejski Poland,,https://kaliskirowermiejski.pl/en/,nextbike
+Poland,"Katowice, Sosnowiec, Chorzów, Tychy",607,PKM Katowice,2017-01-01,,Europe/Warsaw,Nextbike Polska S.A.,City by Bike,Dock-based,https://citybybike.pl/en/,nextbike
+Poland,Kędzierzyn-Koźle,0,,,,Europe/Warsaw,Nextbike Polska S.A.,OK bike!,Dock-based,https://okbike.pl/en/,nextbike
+Poland,Koluszki,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Konin,360,,2018-09-01,,Europe/Warsaw,Nextbike Polska S.A.,Koniński Rower Miejski,Dock-based,https://koninskirower.pl/en/,nextbike
+Poland,Konstancin Jeziorna,34,,,,Europe/Warsaw,,KRM Konstanciński Poland,,http://www.konstancinskirower.pl/,nextbike
+Poland,Koszalin,200,,,,Europe/Warsaw,Nextbike Polska S.A.,Koszaliński Rower Miejski,Dock-based,https://koszalinskirowermiejski.pl/en/,nextbike
+Poland,Kołobrzeg,0,,,,Europe/Warsaw,,Kołobrzeski Rower Miejski Poland,,http://www.kolobrzeskirower.pl/en/,nextbike
+Poland,Kraków,997,,2016-10-13,2019-12-31,Europe/Warsaw,Bike U,Wavelo,Hybrid,https://wavelo.pl/,SoBi
+Poland,Kutno,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Legnica,0,,,2021-06-30,Europe/Warsaw,Nextbike Polska S.A.,Legnicki Rower Miejski,Dock-based,https://rower.legnica.eu/,nextbike
+Poland,Lublin,394,,,,Europe/Warsaw,,LRM Lublin Poland,,http://www.lubelskirower.pl/,nextbike
+Poland,Luboń,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Nowy Dwór Mazowiecki,18,,2019-08-02,,Europe/Warsaw,ROOVEE,NDMka,Dock-based,http://www.rowery.nowydwormaz.pl/en/,ROOVEE
+Poland,Oleśnica,51,,2020-07-08,,Europe/Warsaw,ROOVEE,OLbike,Dock-based,https://olbike.pl/en/,ROOVEE
+Poland,Olesno,7,,2020-05-20,,Europe/Warsaw,Nextbike Polska SA,Oleksi City Bike,Dock-based,https://oleskirower.pl/en/,Nextbike
+Poland,Opole,84,,,,Europe/Warsaw,,Opole Bike Poland,,http://www.opolebike.pl/,nextbike
+Poland,Ostrów Wielkopolski,0,,,,Europe/Warsaw,Nextbike Polska S.A.,Ostrowski Rower Miejski,Dock-based,https://ostrowskirowermiejski.pl/,nextbike
+Poland,Ostrołęka,38,,2019-05-02,,Europe/Warsaw,ROOVEE,OSTRO.BIKE by ROOVEE,Dock-based,https://ostro.bike/,ROOVEE
+Poland,Otwock,54,,,,Europe/Berlin,Nextbike Polska S.A.,Otwocki Rower Miejski,Hybrid,https://otwockirower.pl/en/,Nextbike
+Poland,Pabianice,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Pielgrzymka,0,,,2021-07-09,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Piotrków Trybunalski,70,,,,Europe/Warsaw,Nextbike Polska S.A.,Piotrkowski Rower Miejski,Hybrid,https://piotrkowskirower.pl/en/,Nextbike
+Poland,Pobiedziska,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Poznan,964,,,,Europe/Warsaw,,PRM Poland,,http://www.poznanskirower.pl/,nextbike
+Poland,Pszczyna,0,,,,Europe/Warsaw,Nextbike Polska S.A.,Pszczyński Rower Miejski,Dock-based,https://pszczynskirower.pl/en/,nextbike
+Poland,Płock,200,,,,Europe/Warsaw,Nextbike Polska S.A.,Płocki Rower Miejski,Dock-based,https://plockirowermiejski.pl/en/,nextbike
+Poland,Radom,0,,,2019-11-04,Europe/Warsaw,,Radomski Rower Miejski Poland,,https://radomskirowermiejski.pl/,nextbike
+Poland,Sieradz,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Skierniewice,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Sokołów Podlaski,36,,2021-09-01,,Europe/Warsaw,Nextbike Polska S.A.,Powlatowy System Rowerowy,Dock-based,https://powiatowyrower.pl/en/,nextbike
+Poland,Sopot,36,,,2019-02-28,Europe/Warsaw,,Rower Trójmiejski,,http://www.nextbike.de/en/,nextbike
+Poland,Stalowa Wola,80,,2016-07-01,,Europe/Warsaw,ROOVEE,SWMR by ROOVEE,,https://www.stalowawola.bike/,ROOVEE
+Poland,Szamotuły,0,,,2021-12-01,Europe/Warsaw,,Rower Miejski Szamotuły Poland (RMS),,https://szamotuly.bike/en/,nextbike
+Poland,Szczecin,0,,2014-08-22,2020-12-08,Europe/Warsaw,Nextbike,Bike_S,Dock-based,https://bikes-srm.pl/en/,Homeport/Nextbike
+Poland,Tarnów,0,,,2021-11-29,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Torun,190,Urząd Miasta Torunia,2019-07-30,,Europe/Warsaw,Bike U,torvelo,Dock-based,https://www.torvelo.pl/?lang=2,Homeport
+Poland,Tychowo,20,,,2020-11-30,Europe/Berlin,Nextbike Polska S.A.,Tychowski Rower Miejski,Hybrid,https://tychowskirower.pl/en/,Nextbike
+Poland,Warsaw,4872,,,,Europe/Warsaw,Nextbike Polska S.A.,Veturilo,Extendable dock-based,https://www.veturilo.waw.pl/en/,nextbike
+Poland,Wrocław,1562,,,,Europe/Warsaw,,WRM nextbike Poland,,http://www.wroclawskirower.pl/,nextbike
+Poland,Włocławek,161,,2020-06-07,,Europe/Warsaw,ROOVEE,Włower,Dock-based,https://wlower.bike/,ROOVEE
+Poland,Zabrze,100,,2020-09-16,,Europe/Warsaw,ROOVEE,ZRM by ROOVEE,Dockless hubs,https://zabrzanskirowermiejski.pl/,ROOVEE
+Poland,Żarki and Myszków,32,,,2020-10-01,Europe/Warsaw,Nextbike,Jurajskie Rowery,Dock-based,https://jurajskierowery.pl/en/,Nextbike
+Poland,Zduńska Wola,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Zgierz,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Zielona Góra,360,,,2021-11-30,Europe/Warsaw,Nextbike Polska S.A.,Zielonogórski Rower Miejski,Dock-based,https://zielonogorskirowermiejski.pl/en/,nextbike
+Poland,Żyrardów,0,,,,Europe/Warsaw,,Żyrardowski Rower Miejski,Dock-based,https://zyrardowskirower.pl/en/,Nextbike
+Poland,Łask,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Poland,Łódź,120,,,,Europe/Warsaw,,Rowerowe Łódzkie,,https://rowerowelodzkie.pl/,nextbike
+Poland,Łódź,150,,,,Europe/Warsaw,Homeport Polska Sp. z o.o.,Łódzki Rower Publiczny,Dock-based,https://lodzkirowerpubliczny.pl/,Homeport/Freebike
+Poland,Łowicz,0,,,,Europe/Warsaw,,nextbike,Dock-based,,Nextbike
+Portugal,Almeirim,21,Almeirim City Council,2020-06-01,,Europe/Lisbon,Almeirim City Council,ALGIRA,Dock-based,https://algira.almeirim.pt/,Bewegen
+Portugal,Figueria da Foz,31,Municipality of Figueira da Foz,2020-01-20,,Europe/Lisbon,Municipality of Figueira da Foz,Figas,Dock-based,https://figas.cm-figfoz.pt/,Bewegen
+Portugal,Lisbon,867,,,,Europe/Lisbon,EMEL,Gira,Dock-based,https://www.gira-bicicletasdelisboa.pt/,
+Portugal,Torres Vedras,1,,,,Europe/Lisbon,,Agostinhas,,,
+Romania,Bucharest,100,,2015-07-01,,Europe/Bucharest,,I'Velo Urban,Dock-based,https://ivelo.ro/en/urban/,GreenRevolution
+Romania,Cluj,400,Cluj Napoca City Hall,2015-07-01,,Europe/Bucharest,,ClujBike,Dock-based,http://clujbike.eu/,
+Romania,Saturn,4,,,2021-08-24,Europe/Bucharest,Nextbike,Nextbike,Dock-based,https://nextbike.ro/,Nextbike
+Romania,Timisoara,200,Timisoara City Hall,2015-07-01,,Europe/Bucharest,,VeloTM,Dock-based,http://www.velotm.ro/,
+Russia,Kazan,60,City of Kazan,,,Europe/Moscow,JCDecaux,Veli'k,Dock-based,http://www.veli-k.ru/en/,Cyclocity
+Russia,Moscow,3419,Moscow City Government,2014-06-15,,Europe/Moscow,Velobike,Velobike,Dock-based,https://velobike.ru/en/,Smoove
+Russia,Murmansk,79,,2020-07-13,,Europe/Moscow,Velobike,Velobike,Dock-based,https://murmansk.velobike.ru/en/,Smoove
+Russia,Nizhny Novgorod,200,,2020-08-18,,Europe/Moscow,Velobike,Velobike,Dock-based,https://nnovgorod.velobike.ru/en/,Smoove
+Slovakia,Bratislava,200,,2018-09-07,,Europe/Bratislava,"Slovnaft Mobility Services, sro",Slovnaft BAjk,Dock-based,https://slovnaftbajk.sk/en,
+Slovakia,Nitra,0,,,,Europe/Bratislava,,Arriva Slovakia,,http://arriva.bike/en/,nextbike
+Slovakia,Trnava,188,City of Trnava,,,Europe/Bratislava,City of Trnava,Aboria Bike,Dock-based,https://www.arboriabike.sk/,Freebike
+Slovakia,Žilina,0,,2019-03-29,,Europe/Bratislava,,nextbike,Dock-based,https://bikekia.sk/en/,Nextbike
+Slovenia,"Celje, Laško and Žalec",100,,2018-09-13,,Europe/Ljubljana,Nomago d.o.o.,NomagoBikes KolesCE,Hybrid,https://bikes.nomago.si/celje/,nextbike
+Slovenia,Ljubljana,542,,,,Europe/Ljubljana,,Bicikelj,,,
+Slovenia,Ljubljana,4,,,,Europe/Ljubljana,Nextbike,Nomago Bikes,Dock-based,https://bikes.nomago.si/,Nextbike
+Slovenia,Nova Gorica,0,,2020-12-01,,Europe/Ljubljana,Nomago,Go2Go,Dock-based,https://bikes.nomago.si/go2go_en/,Nextbike
+Slovenia,Portorož,5,,,,Europe/Ljubljana,Nomago doo,Nomago,Dock-based,https://bikes.nomago.si/portoroz/,nextbike
+Slovenia,Slovenske Konjice and Zreče,100,,2018-09-13,,Europe/Ljubljana,Nomago d.o.o.,NomagoBikes,Hybrid,https://bikes.nomago.si/celje/,nextbike
+Slovenia,Upper Canola,200,Mestna občina Kranj,2017-04-08,,Europe/Ljubljana,Kranj,Gorenjska.bike,Dock-based,https://www.krskolesom.si/,JSON/Kranj
+Slovenia,Zagorje ob Savi,24,,,,Europe/Ljubljana,Nomago,Nomago Bikes,Dock-based,,nextbike
+Spain,A Coruña,160,Ayuntamiento de A Coruña,,,Europe/Madrid,Ayuntamiento de A Coruña,bicicoruña,Dock-based,https://bicicoruna.es/,
+Spain,Albacete,100,,,,Europe/Madrid,LaBici,AlbaBici,Dock-based,https://albabici.es/dashboard,Integrated Mobility Systems
+Spain,Altea,0,Ayuntamiento de Altea,,,Europe/Madrid,LaBici,Bicialtea,Dock-based,https://bicialtea.labici.net/,Integrated Mobility Systems
+Spain,Badajoz,90,Ayuntamiento de Badajoz,,,Europe/Madrid,ICTL Bicicard,BiBa,Dock-based,https://bicibadajoz.aytobadajoz.es/,ICTL Bicicard
+Spain,Barcelona,4668,Barcelona de Serveis Municipals,,,Europe/Madrid,PBSC,Bicing,Dock-based,https://bicing.barcelona/,PBSC
+Spain,Barcelona,0,,,,Europe/Madrid,Donkey Republic,Donkey Republic,Dock-based,https://www.donkey.bike/cities/bike-rental-barcelona/,
+Spain,Benidorm,57,,,2020-04-23,Europe/Madrid,LaBici,Bicidorm,Dock-based,https://bicidorm.labici.net/,Integrated Mobility Systems
+Spain,Bilbao,0,,2018-11-02,,Europe/Madrid,Nextbike,Bilbaobizi,Dock-based,https://www.bilbaobizi.bilbao.eus/en/bilbao/,Nextbike
+Spain,Burgos,105,Burgos City Council,,,Europe/Madrid,Burgos City Council,Bicibur,Dock-based,https://bicibur.es/,ICTL
+Spain,Castellón,300,,,,Europe/Madrid,,bicicas,, http://bicicas.es/,
+Spain,Gandia,-1,,,,Europe/Madrid,Impursa,SaforBici,Dock-based,https://www.safor-bici.com/en/,Integrated Mobility Systems
+Spain,Girona,200,Ajuntament de Girona,,,Europe/Madrid,Ajuntament de Girona,Girocleta,Dock-based, http://www.girocleta.cat/,
+Spain,Ibiza,56,,,,Europe/Madrid,Sagalés,Ibizi,Hybrid,https://www.nextbike.es/en/ibiza/,Nextbike
+Spain,Leon,35,,,,Europe/Madrid,,Te Presta La Bici,,http://www.bicileon.com/,
+Spain,Logrõno,159,Logroño City Council,,,Europe/Madrid,Impursa,BiciLog,Dock-based,https://www.bicilog.net/,
+Spain,Madrid,1407,Ayuntamiento de Madrid,2014-06-23,,Europe/Madrid,EMT de Madrid,BiciMAD,Dock-based,https://www.bicimad.com/,Booster-Bikes
+Spain,Murcia,104,,,,Europe/Madrid,UTE,MuyBici,Dock-based,https://muybici.org/,LaBici
+Spain,Palma,217,,,,Europe/Madrid,,Bicipalma,,,
+Spain,Pamplona,323,Ayuntamiento de Pamplona,,,Europe/Madrid,Ride On,Ride On Pamplona,Dock-based,https://rideonpamplona.com/,Ride On
+Spain,Rivas Vaciamadrid,61,Rivas Vaciamadrid City Council,,,Europe/Madrid,Rivas Vaciamadrid City Council,BICINRIVAS,Dock-based,https://bicinrivas.rivasciudad.es/,ICTL/Impursa
+Spain,San Sebastián,371,Ayuntamiento de Donostia / San Sebastián,,,Europe/Spain,UTE DBIZISS,Dbizi,Dock-based,https://www.dbizi.eus/,PBSC
+Spain,Santander,176,,,,Europe/Madrid,,Tusbic,,,
+Spain,Saragossa,1108,Zaragoza Ayuntamiento,,,Europe/Madrid,Clear Channel,BIZI,Dock-based, http://www.bizizaragoza.com,Clear Channel
+Spain,Seville,2366,,,,Europe/Madrid,,Sevici,, http://www.sevici.es/,
+Spain,Torrent and Mislata,300,,,,Europe/Madrid,Movus Mbisi,TorrentBici,Dock-based,https://www.mibisivalencia.es/,
+Spain,Tres Cantos,4,,,,Europe/Madrid,,3CBike,,,
+Spain,Valencia,2179,Municipal Transport Company of Valencia,2010-06-01,,Europe/Madrid,JCDecaux,Valenbisi,Dock-based,http://www.valenbisi.es/,Cyclocity
+Spain,Valladolid,174,,,,Europe/Madrid,,Vallabici,,,
+Sweden,Gothenburg,1124,,,,Europe/Stockholm,,Styr & Ställ,,https://styrochstall.se/en/,Nextbike
+Sweden,Lund,197,,,,Europe/Stockholm,,Lundahoj,,http://lundahoj.se/en/,CycleCity
+Sweden,Malmö,0,,2016-05-14,,Europe/Stockholm,Clear Channel,Malmo by Bike,Dock-based,https://www.malmobybike.se/,Smartbike
+Sweden,Stockholm,74,,,2019-11-01,Europe/Stockholm,Clear Channel,City Bikes,Dock-based,http://www.citybikes.se/home,Smartbike
+Switzerland,Bern,1366,Stadt Bern,2018-06-28,,Europe/Zurich,PubliBike AG,Velo Bern,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Fribourg,113,,2018-07-03,,Europe/Zurich,PubliBike AG,PubliBike Fribourg,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Geneva,501,,2020-08-18,,Europe/Zurich,Genèveroule,VéloPartage,Dock-based,https://tfl.gov.uk/modes/cycling/santander-cycles)https://www.donkey.bike/cities/bike-rental-geneva/,Donkey Republic
+Switzerland,Lausanne,73,,2017-08-21,,Europe/Zurich,PubliBike AG,PubliBike Lausanne-Morges,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Lucerne & Stans,276,,,,Europe/Zurich,,nextbike Switzerland,,https://www.nextbike.ch/,nextbike
+Switzerland,Lugano,128,,2017-09-18,,Europe/Zurich,PubliBike AG,PubliBike Lugano,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Nyon,143,,2018-06-18,,Europe/Zurich,PubliBike AG,PubliBike Nyon,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Sierre,11,,2018-07-05,,Europe/Zurich,PubliBike AG,PubliBike Sierre,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Sion,66,,2018-03-21,,Europe/Zurich,PubliBike AG,PubliBike Sion,Dock-based,https://www.publibike.ch/en/publibike,PubliBike
+Switzerland,Stadt Zug,16,,,,Europe/Berlin,Nextbike,Nextbike Stadt Zug,Hybrid,https://www.nextbike.ch/de/stadt-zug/,Nextbike
+Switzerland,Sursee,33,,,,Europe/Zurich,,nextbike Switzerland,,https://nextbike.ch/,nextbike
+Switzerland,Zürich,1343,,2018-04-06,,Europe/Zurich,PubliBike AG,PubliBike Züri Velo,Marked Hubs,https://www.publibike.ch/en/publibike,PubliBike
+Turkey,Antalya,100,,,,Europe/Istanbul,ANSET,ANTBIS,Dock-based,http://antbis.com/,Baksi Akıllı bisiklet sistemleri
+Turkey,Çanakkale,100,,,,Europe/Istanbul,İsmetpaşa Mahallesi Demircioğlu Caddesi,Çabis,Dock-based,https://cabis.canakkale.bel.tr/,Baksi Akıllı bisiklet sistemleri
+Turkey,Istanbul,1611,İstanbul Büyükşehir Belediyesi (İSPARK),,,Europe/Istanbul,İSPARK,İSBİKE,Dock-based,https://www.isbike.istanbul/,Baksi Akıllı bisiklet sistemleri
+Turkey,Izmir,100,,,,Europe/Istanbul,İZMİR ULAŞIM HİZMETLERİ ve MAKİNA SANAYİ A.Ş. ,bisim,Dock-based,http://www.bisim.com.tr/,Baksi Akıllı bisiklet sistemleri
+Turkey,Kocaeli,200,,,,Europe/Istanbul, Kocaeli Büyükşehir Belediyesi Toplu Taşıma Dairesi Başkanlığı,KOBİS,Dock-based,http://www.kobis.com.tr/,Baksi Akıllı bisiklet sistemleri
+Turkey,Konya,126,,,,Europe/Istanbul,,nextbike Konya,,http://www.nextbike.com.tr/,nextbike
+Turkey,Manavgat,100,,,2020-09-30,Europe/Istanbul,Y. Pazarcı Mahallesi,MANBİS,Dock-based,https://www.manbis.bel.tr/,Baksi Akıllı bisiklet sistemleri
+Turkey,Nilüfer,200,,,,Europe/Istanbul,Nilespit Akıllı Bisiklet Kiralama Sistemleri,Nilespit,Dock-based,https://nilespit.com/,Baksi Akıllı bisiklet sistemleri
+Turkey,Ordu,0,,,2020-09-01,Europe/Istanbul,,Ordu Bisikletli Turkey,,http://ordu.nextbike.com.tr/,nextbike
+Turkey,Seferihisar,2,,,2018-04-25,Europe/Istanbul,,KARBISKARBIS Turkey,,http://www.nextbike.com.tr/,nextbike
+UK,Barnet (Private),8,Barnet Council,,,Europe/London,Beryl,Beryl,Marked Hubs,,Beryl
+UK,Basildon,10,,2020-12-07,,Europe/London,Spin,Spin,Dockless ,,Spin
+UK,Bath,78,,,2019-02-08,Europe/London,,nextbike,,https://www.nextbike.co.uk/en/news/nextbike-bids-a-fond-farewell-to-bath/,nextbike
+UK,Belfast,98,Belfast City Council,2015-04-27,,Europe/London,nextbike,Belfast Bikes,Hybrid,http://www.belfastbikes.co.uk/en/belfast/,nextbike
+UK,Blackpool,-1,,,,Europe/London,,,,,
+UK,Bournemouth,10,BCP Council,2021-01-25,,Europe/London,Beryl,Beryl,Marked Hubs,,Beryl
+UK,"Bournemouth, Christchurch & Poole",706,BCP Council,2019-06-17,,Europe/London,Beryl,Beryl Bikes,Marked Hubs,https://beryl.cc/bikeshare/bournemouth-poole,Beryl
+UK,Brighton,228,Brighton & Hove,2017-09-01,,Europe/London,Hourbike,BTN BikeShare,Hybrid,http://btnbikeshare.com/,SoBi
+UK,Bristol,283,Bristol City Council,2017-05-09,2021-03-25,Europe/London,YoBike UK,YoBike,Dockless with Hubs,https://yobike.com/,YoBike
+UK,Brunel University,0,Brunel University,,,Europe/London,nextbike,nextbike,Hybrid,,nextbike
+UK,Cambridge,165,Cambridge City Council,,,Europe/London,Mobike,Mobike,Dockless,https://mobike.com/uk/,Mobike
+UK,Cambridge (Ofo),100,Cambridge City Council,2017-04-20,,Europe/London,Ofo,Ofo,Dockless,https://www.ofo.com/uk/en,Ofo
+UK,Cardiff,20,Cardiff,,,Europe/London,nextbike,nextbike,Hybrid,http://www.nextbike.co.uk/en/cardiff/,nextbike
+UK,Chelmsford,10,,2021-02-01,,Europe/London,Spin,Spin,Dockless with Hubs,,Spin
+UK,Clacton,50,Essex County Council,2021-03-02,2021-10-24,Europe/London,Spin,Spin,Dockless with Hubs,,Spin
+UK,Colchester,10,,2021-02-16,,Europe/London,Spin,Spin,Dockless with Hubs,,Spin
+UK,Derby,228,Derby City Council,2016-06-28,2019-06-10,Europe/London,Hourbike,eBikes Derby,Hybrid,https://www.ebikesderby.com/,SoBi
+UK,Dumfries,-1,,,2015-10-26,Europe/London,Hourbike,Bike2Go,Dock-based,,Homeport
+UK,Dundee,77,Dundee City Council,2020-12-10,,Europe/London,Ride On,Embark Dundee,Dock-based,https://rideondundee.com/,Ride On
+UK,Edinburgh,300,Edinburgh City Council,2018-09-17,2021-09-17,Europe/London,Serco,Just Eat Cycles,Physical and virtual stations,https://edinburghcyclehire.com/,Urban Sharing/Your Bike
+UK,Edinburgh (RBS Campus),0,RBS,2016-08-27,,Europe/London,nextbike UK,nextbike,Dock-based,http://www.nextbike.co.uk/,nextbike
+UK,Exeter,0,Exeter City Council,2016-10-01,,Europe/London,Co-bikes Limited,Co Bikes,Hybrid,http://www.co-bikes.co.uk/,nextbike
+UK,Falmouth,8,Cornwall Council and Falmouth Town Council,2021-07-07,,Europe/London,Nextbike,Co Bikes,Dock-based,https://www.co-bikes.co.uk/locations/,Nextbike
+UK,Forth Valley,45,Forth Environment Link,2019-06-21,,Europe/London,Wegoshare,Forth Bike,"Hybrid: Extendable docking stations, hubs",https://www.forthbike.co.uk/,Bewegen
+UK,Glasgow,189,,,,Europe/London,nextbike UK,nextbike,Hybrid,https://www.nextbike.co.uk/en/glasgow/,nextbike
+UK,Guildford,14,Cathedral Square,2017-11-27,,Europe/London,Cathedral Square,Guildford Bike Share,Dock-based,https://guildford.bewegen.com/,Bewegen
+UK,Hackney,0,Zero Emission Network,2021-09-22,,Europe/London,Beryl,Cargo Bike Share,Dock-based,https://www.cargobikeshare.cc/,Beryl
+UK,Hereford,78,Hereford City Council,2019-07-29,,Europe/London,Beryl,Beryl Bikes,Marked Hubs,https://beryl.cc/bikeshare/hereford,Beryl
+UK,Honiton,3,,,,Europe/London,Co Cars UK Ltd,Co Bikes,Dock-based,https://www.co-bikes.co.uk/,Nextbike
+UK,Inverness,28,HITRANS,2021-10-01,,Europe/London,Bewegen,Hi-Bike,Dock-based,https://www.hi-bike.co.uk/,Bewegen
+UK,Ipswich (Urbo),100,Ipswich Council,2017-02-09,,Europe/London,Urbo,Urbo,Dockless,http://urbosolutions.com/,Urbo
+UK,Isle of Wight,15,Solent Transport/Isle of Wight Council,2020-11-26,,Europe/London,Beryl,Beryl,Marked Hubs,,Beryl
+UK,Kensington & Chelsea,0,,,,Europe/London,Freebike,Freebike,Marked Hubs,https://london.freebike.com/,Homeport
+UK,Kingston University (Private),30,Kingston University,2017-09-30,2021-07-31,Europe/London,Intelligent Transport Services,KU Bikes,Private Dock-based,https://www.ku-bikes.co.uk/,Smoove
+UK,Leicester,96,,2021-02-22,,Europe/London,Ride On,Santander Cycles Leicester,Dock-based,https://rideonleicester.com/,Ride On
+UK,Lincoln,79,Lincolnshire County Council,2013-08-23,,Europe/London,Hourbike,hirebike Lincoln,Dock-based,https://www.hirebikelincoln.co.uk/,Homeport
+UK,Liverpool,226,Liverpool City Council,2014-05-07,,Europe/London,Liverpool City Council,citybike,Dock-based,https://www.citybikeliverpool.co.uk/,Homeport
+UK,London,8392,Transport for London,2010-07-31,,Europe/London,Serco,Santander Cycles,Dock-based,https://tfl.gov.uk/modes/cycling/santander-cycles,PBSC
+UK,London (Beryl),166,London Boroughs,2019-06-28,2020-11-24,Europe/London,Beryl,Beryl Bikes,Marked Hubs,https://beryl.cc/bikeshare/london,Beryl
+UK,London (Freebike) ,0,City of London Corporation,2019-06-12,,Europe/London,Freebike,Freebike,Marked Hubs,https://london.freebike.com/,Homeport
+UK,London (Human Forest),200,Islington Council,2020-06-24,2020-09-22,Europe/London,HumanForest,HumanForest,Dockless,https://humanforest.co.uk/,Wunder Mobility
+UK,London (JUMP),700,Transport for London,2019-05-23,2020-05-31,Europe/London,JUMP by Uber,JUMP,Marked Hubs and Dockless,https://uk.jump.com/gb/en/cities/london/,JUMP
+UK,London (Mobike),1038,"Ealing London Boro, Hounslow London Boro, Islington London Boro, City of London Corporation",2017-09-12,,Europe/London,Mobike,Mobike,Dockless,https://mobike.com/uk/,Mobike
+UK,London (oBike),5,,,2017-12-31,Europe/London,,oBike,Dockless,https://o.bike/,
+UK,London (Ofo),100,Various London boroughs,2017-09-07,,Europe/London,Ofo,Ofo,Dockless,https://www.ofo.com/uk/en,Ofo
+UK,London (Urbo),230,Waltham Forest London Boro,2017-10-31,,Europe/London,Urbo,Urbo,Dockless,http://urbosolutions.com/,Urbo
+UK,Lothian,37,South East of Scotland Transport Partnership,2021-04-05,,Europe/London,SEStran,GO e-Bike,Dock-based,https://goebike.uk/,Bewegen
+UK,Manchester,107,Transport for Greater Manchester,2021-11-18,,Europe/London,Beryl,Bee Network Cycle Hire,Dock-based,https://activetravel.tfgm.com/bee-network-cycle-hire/,Beryl
+UK,Manchester & Stockport (Mobike),100,"Manchester City Council, Salford City Council",2017-07-01,2018-09-09,Europe/London,Mobike,Mobike,Dockless,https://mobike.com/uk/,Mobike
+UK,Milton Keynes,250,Milton Keynes Council,2016-06-17,,Europe/London,nextbike,Santander Cycles MK,Hybrid,https://santandercyclesmk.co.uk/,nextbike
+UK,Milton Keynes,108,Milton Keynes Council,2020-08-22,,Europe/London,Spin,Spin,Dockless with Hubs,https://www.spin.app/,Spin
+UK,Newcastle,10,,2021-02-16,,Europe/London,Neuron,Neuron,Dockless with Hubs,,Neuron
+UK,Newcastle (Mobike),100,Newcastle City Council,2017-10-16,,Europe/London,Mobike,Mobike,Dockless,https://mobike.com/uk/,Mobike
+UK,Northampton,25,,,2019-09-02,Europe/London,Hourbike,Cycle CoNNect,Dock-based, http://www.cycleconnect.co.uk/,Homeport
+UK,Norwich,0,,2020-03-18,,Europe/London,Beryl,Beryl,Marked Hubs,https://beryl.cc/bikeshare/norwich,Beryl
+UK,Norwich,7,,2020-09-21,,Europe/London,Beryl,Beryl,Dock-based,https://beryl.cc/bikeshare/norwich,Beryl
+UK,Norwich (Ofo),100,"Norwich City Council, Norfolk County Council",2017-10-30,,Europe/London,Ofo,Ofo,Dockless,https://www.ofo.com/uk/en,Ofo
+UK,Nottingham,25,,,,Europe/London,Hourbike,Citycard Cycles,Dock-based,http://www.citycardcycles.com/,Homeport
+UK,Nottingham,180,,2020-10-27,,Europe/London,Wind,Wind,Dockless with Hubs,,LINK
+UK,Oxford,9,Oxford City Council,,2019-07-04,Europe/London,Hourbike,Oxonbike,Extendable dock-based,https://www.oxonbikes.co.uk/,Homeport
+UK,Oxford,125,Oxford City Council,2017-01-02,,Europe/London,Mobike,Mobike,Dockless,https://mobike.com/uk/,Mobike
+UK,Oxford (Ofo),450,Oxford City Council,2017-08-20,,Europe/London,Ofo,Ofo,Dockless,https://www.ofo.com/uk/en,Ofo
+UK,Reading,106,,,2019-04-01,Europe/London,Hourbike,Readybike,Dock-based,http://www.readybike.co.uk/,Homeport
+UK,Richmond-upon-Thames,0,Richmond upon Thames Borough Council,,,Europe/London,Freebike,Freebike,Marked Hubs,https://london.freebike.com/,Homeport
+UK,Sheffield,0,University of Sheffield,2016-07-31,,Europe/London,Hourbike,Sheffield By Cycle,Dock-based,https://www.sheffieldbicycle.co.uk/,Homeport
+UK,Sheffield (Ofo),100,Sheffield City Council,2018-01-09,,Europe/London,Ofo,Ofo,Dockless,https://www.ofo.com/uk/en,Ofo
+UK,Slough,49,,,,Europe/London,Intelligent Transport Systems,Cycle Hire Slough,Dock-based,https://www.cycleslough.com/,Smoove
+UK,Slough,10,,2020-10-16,,Europe/London,Neuron,Neuron,Dockless with Hubs,,Neuron
+UK,Southampton,40,Southampton City Council,2017-09-19,2019-08-14,Europe/London,YoBike UK,YoBike,Dockless with Hubs,https://yobike.com/,YoBike
+UK,Stirling,111,,,,Europe/London,nextbike UK,nextbike,Hybrid,http://www.nextbike.co.uk/en/stirling/,nextbike
+UK,Sunderland,10,,2021-03-31,,Europe/London,Neuron,Neuron,Dockless with Hubs,,Neuron
+UK,Swansea University,0,,,,Europe/London,nextbike UK,nextbike,Hybrid,http://www.nextbike.co.uk/,nextbike
+UK,Totnes,1,,,,Europe/London,Co Cars UK Ltd,Co Bikes,Dock-based,,Nextbike
+UK,University of Surrey,0,,,,Europe/London,nextbike UK,nextbike,Hybrid,https://www.nextbike.co.uk/en/university%20of%20surrey/,nextbike
+UK,Waddesdon Greenway,15,Buckinghamshire Council,2020-11-02,,Europe/London,Intelligent Transport Services,B-Bikes,Dock-based,https://www.b-bikes.co.uk/,Smoove
+UK,Warwick (University of),0,,,2021-08-31,Europe/London,nextbike UK,nextbike,Hybrid,https://www.nextbike.co.uk/en/university%20of%20warwick/,nextbike
+UK,Watford,150,Watford Borough Council,2020-03-05,,Europe/London,Beryl,Beryl Bikes,Extendable dock-based,https://beryl.cc/bikeshare/riders,Beryl
+UK,West Midlands,1099,West Midlands Combined Authority,2021-03-06,,Europe/London,Serco,West Midlands Cycle Hire,Dock-based,https://www.wmcyclehire.co.uk/,Beryl/Pashley
+UK,Wolverhampton,0,,,2019-07-26,Europe/London,,nextbike,Hybrid,,Nextbike
+Ukraine,Ivano-Frankivsk,75,,2020-10-12,,Europe/Kiev,nextbike Ukraine LLC,nextbike,Dock-based,https://www.nextbike.ua/en/ivano-frankivsk/,Nextbike
+Ukraine,Kharkiv,0,,,2020-11-13,Europe/Kiev,nextbike,nextbike Kharkiv,Dock-based,https://www.nextbike.ua/en/,nextbike
+Ukraine,Kiev,0,,,,Europe/Kiev,bikenow,bikenow,Dock-based,https://bikenow.com.ua/,nextbike
+Ukraine,Lviv,0,,,,Europe/Kiev,,nextbike Ukraine,,https://www.nextbike.ua/,nextbike
+Ukraine,Odesa,0,,,,Europe/Kiev,,nextbike,Dock-based,,Nextbike
+Ukraine,Vinnytsia,0,,,,Europe/Kiev,,nextbike,Dock-based,,Nextbike

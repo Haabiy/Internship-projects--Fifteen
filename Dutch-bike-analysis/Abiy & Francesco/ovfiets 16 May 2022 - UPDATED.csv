@@ -1,0 +1,289 @@
+Location,URL,Station name,Lat,Lng,Bikes available,Total bikes available,Extra bikes
+s-Hertogenbosch Oost,https://ovfietsbeschikbaar.nl/locatie/Hto001,Station 's-Hertogenbosch Oost,51.700878,5.319214,7 fietsen beschikbaar,8 fietsen,1
+t Harde,https://ovfietsbeschikbaar.nl/locatie/Hde001,Station 't Harde,52.408791,5.89185,6 fietsen beschikbaar,8 fietsen,2
+Aalten,https://ovfietsbeschikbaar.nl/locatie/atn001,Station Aalten,51.92161,6.57929,6 fietsen beschikbaar,6 fietsen,0
+Alkmaar,https://ovfietsbeschikbaar.nl/locatie/amr001,Station Alkmaar,52.63753,4.73985,143 fietsen beschikbaar,162 fietsen,19
+Alkmaar Noord,https://ovfietsbeschikbaar.nl/locatie/amrn003,Station Alkmaar Noord,52.64396,4.76371,29 fietsen beschikbaar,32 fietsen,3
+Almelo,https://ovfietsbeschikbaar.nl/locatie/aml001,Station Almelo,52.35614,6.65732,18 fietsen beschikbaar,32 fietsen,14
+Almere Centrum,https://ovfietsbeschikbaar.nl/locatie/alm003,Station Almere Centrum,52.37462,5.21781,28 fietsen beschikbaar,32 fietsen,4
+Alphen aan den Rijn,https://ovfietsbeschikbaar.nl/locatie/apn001,Station Alphen a/d Rijn,52.12492,4.65789,40 fietsen beschikbaar,55 fietsen,15
+Amersfoort Centraal,https://ovfietsbeschikbaar.nl/locatie/amf001,Station Amersfoort Centraal,52.15293,5.37481,272 fietsen beschikbaar,451 fietsen,179
+Amersfoort Mondriaanplein,https://ovfietsbeschikbaar.nl/locatie/amf002,Station Amersfoort Centraal,52.15446,5.37339,56 fietsen beschikbaar,70 fietsen,14
+Amersfoort Schothorst,https://ovfietsbeschikbaar.nl/locatie/amfs001,Station Amersfoort Schothorst,52.1746,5.40462,28 fietsen beschikbaar,31 fietsen,3
+Amersfoort Vathorst,https://ovfietsbeschikbaar.nl/locatie/avat001,Station Amersfoort Vathorst,52.19261,5.43362,4 fietsen beschikbaar,4 fietsen,0
+Amsterdam Amstel,https://ovfietsbeschikbaar.nl/locatie/asa001,Station Amsterdam Amstel,52.34701,4.91875,190 fietsen beschikbaar,278 fietsen,88
+Amsterdam Bijlmer ArenA,https://ovfietsbeschikbaar.nl/locatie/asb003,Station Amsterdam Bijlmer ArenA,52.311914,4.948114,18 fietsen beschikbaar,30 fietsen,12
+Amsterdam Centraal IJzijde,https://ovfietsbeschikbaar.nl/locatie/asd008,Station Amsterdam Centraal,52.380095,4.898784,173 fietsen beschikbaar,221 fietsen,48
+Amsterdam Centraal Oost,https://ovfietsbeschikbaar.nl/locatie/asd002,Station Amsterdam Centraal,52.37785,4.902062,98 fietsen beschikbaar,289 fietsen,191
+Amsterdam Centraal West,https://ovfietsbeschikbaar.nl/locatie/asd007,Station Amsterdam Centraal,52.379587,4.896882,628 fietsen beschikbaar,766 fietsen,138
+Amsterdam Lelyplein,https://ovfietsbeschikbaar.nl/locatie/asdl001,Station Amsterdam Lelylaan,52.35864,4.8339,16 fietsen beschikbaar,38 fietsen,22
+Amsterdam Muiderpoort,https://ovfietsbeschikbaar.nl/locatie/asdm001,Station Amsterdam Muiderpoort,52.3604,4.93093,48 fietsen beschikbaar,80 fietsen,32
+Amsterdam Noord,https://ovfietsbeschikbaar.nl/locatie/asd009,None,52.402374,4.931019,12 fietsen beschikbaar,29 fietsen,17
+Amsterdam RAI,https://ovfietsbeschikbaar.nl/locatie/rai001,Station Amsterdam RAI,52.33725,4.89075,47 fietsen beschikbaar,61 fietsen,14
+Amsterdam Sloterdijk,https://ovfietsbeschikbaar.nl/locatie/ass001,Station Amsterdam Sloterdijk,52.38903,4.83707,180 fietsen beschikbaar,244 fietsen,64
+Amsterdam Zuid Mahlerplein,https://ovfietsbeschikbaar.nl/locatie/asdz003,Station Amsterdam Zuid,52.336448,4.873438,109 fietsen beschikbaar,348 fietsen,239
+Amsterdam Zuid Zuidplein,https://ovfietsbeschikbaar.nl/locatie/asdz001,Station Amsterdam Zuid,52.340294,4.873381,272 fietsen beschikbaar,361 fietsen,89
+Anna Paulowna,https://ovfietsbeschikbaar.nl/locatie/ana001,Station Anna Paulowna,52.86759,4.81198,2 fietsen beschikbaar,4 fietsen,2
+Apeldoorn,https://ovfietsbeschikbaar.nl/locatie/apd001,Station Apeldoorn,52.209578,5.9692,336 fietsen beschikbaar,343 fietsen,7
+Appingedam,https://ovfietsbeschikbaar.nl/locatie/Apg001,Station Appingedam,53.325252,6.863617,2 fietsen beschikbaar,4 fietsen,2
+Arnhem Centrum,https://ovfietsbeschikbaar.nl/locatie/ah001,Station Arnhem Centraal,51.9835,5.90126,372 fietsen beschikbaar,432 fietsen,60
+Assen,https://ovfietsbeschikbaar.nl/locatie/asn001,Station Assen,52.99185,6.570329,228 fietsen beschikbaar,236 fietsen,8
+Baarn,https://ovfietsbeschikbaar.nl/locatie/brn001,Station Baarn,52.20787,5.28219,20 fietsen beschikbaar,32 fietsen,12
+Barendrecht,https://ovfietsbeschikbaar.nl/locatie/brd001,Station Barendrecht,51.853419,4.554166,29 fietsen beschikbaar,35 fietsen,6
+Barneveld Centrum,https://ovfietsbeschikbaar.nl/locatie/bnc001,Station Barneveld Centrum,52.14061,5.58947,6 fietsen beschikbaar,6 fietsen,0
+Barneveld Noord,https://ovfietsbeschikbaar.nl/locatie/bnn001,Station Barneveld Noord,52.16085,5.59905,4 fietsen beschikbaar,6 fietsen,2
+Beesd,https://ovfietsbeschikbaar.nl/locatie/bsd001,Station Beesd,51.8993,5.1943,6 fietsen beschikbaar,6 fietsen,0
+Beilen,https://ovfietsbeschikbaar.nl/locatie/bl001,Station Beilen,52.85592,6.52117,17 fietsen beschikbaar,22 fietsen,5
+Bergen op Zoom,https://ovfietsbeschikbaar.nl/locatie/bgn001,Station Bergen op Zoom,51.49517,4.29575,21 fietsen beschikbaar,31 fietsen,10
+Best,https://ovfietsbeschikbaar.nl/locatie/bet001,Station Best,51.50841,5.38957,30 fietsen beschikbaar,31 fietsen,1
+Beverwijk,https://ovfietsbeschikbaar.nl/locatie/bv002,Station Beverwijk,52.47875,4.65448,41 fietsen beschikbaar,71 fietsen,30
+Bilthoven,https://ovfietsbeschikbaar.nl/locatie/bhv001,Station Bilthoven,52.12949,5.20514,24 fietsen beschikbaar,32 fietsen,8
+Bloemendaal,https://ovfietsbeschikbaar.nl/locatie/bll001,Station Bloemendaal,52.40441,4.6273,2 fietsen beschikbaar,4 fietsen,2
+Bodegraven,https://ovfietsbeschikbaar.nl/locatie/bdg001,Station Bodegraven,52.081541,4.746529,2 fietsen beschikbaar,8 fietsen,6
+Borne,https://ovfietsbeschikbaar.nl/locatie/bn001,Station Borne,52.298408,6.749042,7 fietsen beschikbaar,8 fietsen,1
+Boskoop,https://ovfietsbeschikbaar.nl/locatie/bk001,Station Boskoop,52.076315,4.646843,2 fietsen beschikbaar,4 fietsen,2
+Bovenkarspel-Grootebroek,https://ovfietsbeschikbaar.nl/locatie/bkg001,Station Bovenkarspel-Grootebroek,52.695309,5.236411,4 fietsen beschikbaar,4 fietsen,0
+Boxmeer,https://ovfietsbeschikbaar.nl/locatie/Bmr001,Station Boxmeer,51.64444,5.939563,12 fietsen beschikbaar,15 fietsen,3
+Boxtel,https://ovfietsbeschikbaar.nl/locatie/btl001,Station Boxtel,51.58515,5.318988,19 fietsen beschikbaar,22 fietsen,3
+Boxtel - Kluis,https://ovfietsbeschikbaar.nl/locatie/btl004,Station Boxtel,51.584637,5.319527,12 fietsen beschikbaar,15 fietsen,3
+Breda Belcrum,https://ovfietsbeschikbaar.nl/locatie/bd002,Station Breda,51.596338,4.77892,170 fietsen beschikbaar,271 fietsen,101
+Breda Centrum,https://ovfietsbeschikbaar.nl/locatie/Bd003,Station Breda,51.59502,4.779437,161 fietsen beschikbaar,174 fietsen,13
+Breda Prinsenbeek,https://ovfietsbeschikbaar.nl/locatie/bdpb001,Station Breda-Prinsenbeek,51.606061,4.72136,6 fietsen beschikbaar,8 fietsen,2
+Breukelen,https://ovfietsbeschikbaar.nl/locatie/bkl001,Station Breukelen,52.17035,4.99054,4 fietsen beschikbaar,8 fietsen,4
+Brummen,https://ovfietsbeschikbaar.nl/locatie/bmn001,Station Brummen,52.09104,6.14726,3 fietsen beschikbaar,6 fietsen,3
+Bunnik,https://ovfietsbeschikbaar.nl/locatie/bnk001,Station Bunnik,52.06346,5.19642,15 fietsen beschikbaar,24 fietsen,9
+Bussum Zuid,https://ovfietsbeschikbaar.nl/locatie/bsmz001,Station Bussum Zuid,52.26595,5.16272,1 fietsen beschikbaar,4 fietsen,3
+Castricum,https://ovfietsbeschikbaar.nl/locatie/cas001,Station Castricum,52.54554,4.65954,47 fietsen beschikbaar,66 fietsen,19
+Cuijk,https://ovfietsbeschikbaar.nl/locatie/ck001,Station Cuijk,51.72659,5.87423,13 fietsen beschikbaar,20 fietsen,7
+Culemborg,https://ovfietsbeschikbaar.nl/locatie/cl002,Station Culemborg,51.94704,5.22713,25 fietsen beschikbaar,31 fietsen,6
+Dalfsen,https://ovfietsbeschikbaar.nl/locatie/dl001,Station Dalfsen,52.49825,6.25946,2 fietsen beschikbaar,4 fietsen,2
+Delden,https://ovfietsbeschikbaar.nl/locatie/ddn001,Station Delden,52.26021,6.71482,4 fietsen beschikbaar,4 fietsen,0
+"Delft, Fietsenstalling",https://ovfietsbeschikbaar.nl/locatie/dt002,Station Delft,52.006473,4.35744,309 fietsen beschikbaar,360 fietsen,51
+Delfzijl,https://ovfietsbeschikbaar.nl/locatie/Dz001,Station Delfzijl,53.333638,6.923716,4 fietsen beschikbaar,4 fietsen,0
+Den Dolder,https://ovfietsbeschikbaar.nl/locatie/dld001,Station Den Dolder,52.14002,5.24177,3 fietsen beschikbaar,6 fietsen,3
+Den Haag Centraal Koningin Julianaplein,https://ovfietsbeschikbaar.nl/locatie/gvc021,Station Den Haag Centraal,52.08129,4.323001,597 fietsen beschikbaar,741 fietsen,144
+Den Haag Centraal Stichthage,https://ovfietsbeschikbaar.nl/locatie/gvc001,Station Den Haag Centraal,52.081295,4.323008,262 fietsen beschikbaar,419 fietsen,157
+Den Haag HS,https://ovfietsbeschikbaar.nl/locatie/gv001,Station Den Haag HS,52.069582,4.320696,59 fietsen beschikbaar,87 fietsen,28
+Den Haag Laan van NOI,https://ovfietsbeschikbaar.nl/locatie/laa001,Station Den Haag Laan v NOI,52.078837,4.34196,Geen actuele beschikbaarheid.,None,0
+Den Haag Mariahoeve,https://ovfietsbeschikbaar.nl/locatie/gvm001,Station Den Haag Mariahoeve,52.09094,4.36933,3 fietsen beschikbaar,3 fietsen,0
+Den Helder,https://ovfietsbeschikbaar.nl/locatie/hdr003,Station Den Helder,52.95674,4.76071,16 fietsen beschikbaar,32 fietsen,16
+Den Helder Zuid,https://ovfietsbeschikbaar.nl/locatie/hdrz001,Station Den Helder Zuid,52.9321,4.76485,8 fietsen beschikbaar,8 fietsen,0
+Deurne,https://ovfietsbeschikbaar.nl/locatie/dn001,Station Deurne,51.45625,5.78731,Geen actuele beschikbaarheid.,4 fietsen,4
+Deventer,https://ovfietsbeschikbaar.nl/locatie/dv001,Station Deventer,52.256995,6.161051,120 fietsen beschikbaar,136 fietsen,16
+Deventer Boerhavelaan,https://ovfietsbeschikbaar.nl/locatie/dv003,Station Deventer,52.2685,6.175444,19 fietsen beschikbaar,22 fietsen,3
+Didam,https://ovfietsbeschikbaar.nl/locatie/did001,Station Didam,51.93351,6.13221,6 fietsen beschikbaar,6 fietsen,0
+Diemen,https://ovfietsbeschikbaar.nl/locatie/dmn001,Station Diemen,52.344897,4.968411,2 fietsen beschikbaar,4 fietsen,2
+Diemen Zuid,https://ovfietsbeschikbaar.nl/locatie/dmnz001,Station Diemen Zuid,52.33042,4.95566,2 fietsen beschikbaar,4 fietsen,2
+Dieren,https://ovfietsbeschikbaar.nl/locatie/dr001,Station Dieren,52.04548,6.10312,2 fietsen beschikbaar,6 fietsen,4
+Doetinchem,https://ovfietsbeschikbaar.nl/locatie/dtc001,Station Doetinchem,51.95865,6.29575,4 fietsen beschikbaar,6 fietsen,2
+Doetinchem de Huet,https://ovfietsbeschikbaar.nl/locatie/dtch001,Station Doetinchem De Huet,51.95929,6.25961,5 fietsen beschikbaar,6 fietsen,1
+Dordrecht,https://ovfietsbeschikbaar.nl/locatie/ddr001,Station Dordrecht,51.80781,4.66785,49 fietsen beschikbaar,87 fietsen,38
+Driebergen-Zeist,https://ovfietsbeschikbaar.nl/locatie/db001,Station Driebergen-Zeist,52.065057,5.259785,106 fietsen beschikbaar,148 fietsen,42
+Driehuis,https://ovfietsbeschikbaar.nl/locatie/drh001,Station Driehuis,52.44301,4.63908,6 fietsen beschikbaar,9 fietsen,3
+Dronten,https://ovfietsbeschikbaar.nl/locatie/DRON001,Station Dronten,52.532839,5.72051,3 fietsen beschikbaar,8 fietsen,5
+Duiven,https://ovfietsbeschikbaar.nl/locatie/dvn001,Station Duiven,51.94356,6.01459,23 fietsen beschikbaar,23 fietsen,0
+Duivendrecht,https://ovfietsbeschikbaar.nl/locatie/dvd001,Station Duivendrecht,52.32369,4.93629,3 fietsen beschikbaar,4 fietsen,1
+Echt,https://ovfietsbeschikbaar.nl/locatie/ec001,Station Echt,51.10008,5.87851,3 fietsen beschikbaar,6 fietsen,3
+Ede-Wageningen Zuidplein,https://ovfietsbeschikbaar.nl/locatie/ed002,Station Ede-Wageningen,52.027075,5.671595,23 fietsen beschikbaar,32 fietsen,9
+Ede-Wageningen Zuidzijde,https://ovfietsbeschikbaar.nl/locatie/ed001,Station Ede-Wageningen,52.026939,5.672048,186 fietsen beschikbaar,210 fietsen,24
+Eindhoven Beukenlaan,https://ovfietsbeschikbaar.nl/locatie/ehb001,Station Eindhoven Strijp-S,51.447629,5.451376,1 fietsen beschikbaar,4 fietsen,3
+Eindhoven Noordzijde,https://ovfietsbeschikbaar.nl/locatie/ehv003,Station Eindhoven Centraal,51.443676,5.480101,49 fietsen beschikbaar,104 fietsen,55
+Eindhoven Zuidzijde (centrum),https://ovfietsbeschikbaar.nl/locatie/ehv002,Station Eindhoven Centraal,51.442199,5.480273,187 fietsen beschikbaar,222 fietsen,35
+Elst,https://ovfietsbeschikbaar.nl/locatie/est001,Station Elst,51.917265,5.853899,8 fietsen beschikbaar,8 fietsen,0
+Emmen,https://ovfietsbeschikbaar.nl/locatie/emn001,Station Emmen,52.78953,6.89916,28 fietsen beschikbaar,32 fietsen,4
+Enkhuizen,https://ovfietsbeschikbaar.nl/locatie/ekz001,Station Enkhuizen,52.69996,5.28904,19 fietsen beschikbaar,24 fietsen,5
+Enschede,https://ovfietsbeschikbaar.nl/locatie/es002,Station Enschede,52.22169,6.88984,53 fietsen beschikbaar,64 fietsen,11
+Ermelo,https://ovfietsbeschikbaar.nl/locatie/eml001,Station Ermelo,52.30039,5.61434,7 fietsen beschikbaar,8 fietsen,1
+Etten-Leur,https://ovfietsbeschikbaar.nl/locatie/etn001,Station Etten-Leur,51.575171,4.636554,5 fietsen beschikbaar,8 fietsen,3
+Geldermalsen,https://ovfietsbeschikbaar.nl/locatie/gdm001,Station Geldermalsen,51.88156,5.2703,1 fietsen beschikbaar,6 fietsen,5
+Geldrop Fietskluis,https://ovfietsbeschikbaar.nl/locatie/Gp001,Station Geldrop,51.420562,5.55033,8 fietsen beschikbaar,8 fietsen,0
+Gilze Rijen,https://ovfietsbeschikbaar.nl/locatie/gz001,Station Gilze-Rijen,51.584041,4.92483,7 fietsen beschikbaar,8 fietsen,1
+Goes,https://ovfietsbeschikbaar.nl/locatie/gs002,Station Goes,51.49874,3.88823,23 fietsen beschikbaar,32 fietsen,9
+Goor,https://ovfietsbeschikbaar.nl/locatie/go001,Station Goor,52.23056,6.58465,2 fietsen beschikbaar,4 fietsen,2
+Gorinchem,https://ovfietsbeschikbaar.nl/locatie/gr001,Station Gorinchem,51.83366,4.96788,1 fietsen beschikbaar,4 fietsen,3
+Gouda,https://ovfietsbeschikbaar.nl/locatie/gd001,Station Gouda,52.01803,4.705,151 fietsen beschikbaar,174 fietsen,23
+Gouda Goverwelle,https://ovfietsbeschikbaar.nl/locatie/gdg001,Station Gouda Goverwelle,52.015,4.74286,4 fietsen beschikbaar,4 fietsen,0
+Groningen,https://ovfietsbeschikbaar.nl/locatie/gn001,Station Groningen,53.21155,6.56701,756 fietsen beschikbaar,885 fietsen,129
+Groningen Noord,https://ovfietsbeschikbaar.nl/locatie/Gnn001,Station Groningen Noord,53.230098,6.557451,4 fietsen beschikbaar,8 fietsen,4
+Groningen P+R Hoogkerk,https://ovfietsbeschikbaar.nl/locatie/gn002,Station Groningen,53.197953,6.512867,4 fietsen beschikbaar,4 fietsen,0
+Groningen P+R Kardinge,https://ovfietsbeschikbaar.nl/locatie/gn003,Station Groningen,53.238277,6.59382,7 fietsen beschikbaar,8 fietsen,1
+Haarlem Fiets Inn,https://ovfietsbeschikbaar.nl/locatie/hlm002,Station Haarlem,52.38763,4.63832,285 fietsen beschikbaar,309 fietsen,24
+Haarlem Spaarnwoude,https://ovfietsbeschikbaar.nl/locatie/hlms001,Station Haarlem Spaarnwoude,52.38213,4.670836,3 fietsen beschikbaar,4 fietsen,1
+Halfweg Zwanenburg,https://ovfietsbeschikbaar.nl/locatie/hwzb001,Station Halfweg-Zwanenburg,52.38647,4.746886,4 fietsen beschikbaar,6 fietsen,2
+Hardenberg,https://ovfietsbeschikbaar.nl/locatie/hdb001,Station Hardenberg,52.57456,6.62907,3 fietsen beschikbaar,6 fietsen,3
+Harderwijk,https://ovfietsbeschikbaar.nl/locatie/hd001,Station Harderwijk,52.3377,5.619034,42 fietsen beschikbaar,54 fietsen,12
+Haren,https://ovfietsbeschikbaar.nl/locatie/HRN002,Station Haren,53.175165,6.617819,Geen actuele beschikbaarheid.,None,0
+Haren P+R Transferium,https://ovfietsbeschikbaar.nl/locatie/hrn001,Station Groningen,53.168783,6.592465,8 fietsen beschikbaar,8 fietsen,0
+Heemskerk,https://ovfietsbeschikbaar.nl/locatie/hk001,Station Heemskerk,52.49418,4.68518,8 fietsen beschikbaar,8 fietsen,0
+Heemstede-Aerdenhout,https://ovfietsbeschikbaar.nl/locatie/had002,Station Heemstede-Aerdenhout,52.35899,4.60547,26 fietsen beschikbaar,31 fietsen,5
+Heerenveen,https://ovfietsbeschikbaar.nl/locatie/hr001,Station Heerenveen,52.96098,5.91617,22 fietsen beschikbaar,31 fietsen,9
+Heerhugowaard,https://ovfietsbeschikbaar.nl/locatie/hwd002,Station Heerhugowaard,52.66929,4.82352,17 fietsen beschikbaar,38 fietsen,21
+Heerlen,https://ovfietsbeschikbaar.nl/locatie/hrl001,Station Heerlen,50.89033,5.97444,20 fietsen beschikbaar,32 fietsen,12
+Heeze-Leende,https://ovfietsbeschikbaar.nl/locatie/hze001,Station Heeze,51.38531,5.56985,3 fietsen beschikbaar,6 fietsen,3
+Heiloo,https://ovfietsbeschikbaar.nl/locatie/hlo001,Station Heiloo,52.600106,4.700891,15 fietsen beschikbaar,20 fietsen,5
+Hellendoorn/Nijverdal OV-fiets Carrousel,https://ovfietsbeschikbaar.nl/locatie/nvd001,Station Nijverdal,52.36599,6.469563,17 fietsen beschikbaar,24 fietsen,7
+Helmond,https://ovfietsbeschikbaar.nl/locatie/hm001,Station Helmond,51.4761,5.661,25 fietsen beschikbaar,31 fietsen,6
+Helmond 't Hout,https://ovfietsbeschikbaar.nl/locatie/hmh001,Station Helmond 't Hout,51.46803,5.6313,3 fietsen beschikbaar,4 fietsen,1
+Helmond Brandevoort,https://ovfietsbeschikbaar.nl/locatie/hmbv001,Station Helmond Brandevoort,51.46274,5.60881,3 fietsen beschikbaar,4 fietsen,1
+Helmond Brouwhuis,https://ovfietsbeschikbaar.nl/locatie/hmbh001,Station Helmond Brouwhuis,51.47057,5.70168,2 fietsen beschikbaar,4 fietsen,2
+Hengelo,https://ovfietsbeschikbaar.nl/locatie/hgl001,Station Hengelo,52.26239,6.7936,13 fietsen beschikbaar,30 fietsen,17
+Hengelo Gezondheidspark,https://ovfietsbeschikbaar.nl/locatie/hglg001,Station Hengelo Gezondheidspark,52.26183,6.76561,5 fietsen beschikbaar,6 fietsen,1
+Hillegom,https://ovfietsbeschikbaar.nl/locatie/hil001,Station Hillegom,52.30292,4.56551,3 fietsen beschikbaar,4 fietsen,1
+Hilversum,https://ovfietsbeschikbaar.nl/locatie/hvs001,Station Hilversum,52.22626,5.18076,204 fietsen beschikbaar,215 fietsen,11
+Hilversum Sportpark,https://ovfietsbeschikbaar.nl/locatie/hvsp001,Station Hilversum Sportpark,52.21633,5.18768,27 fietsen beschikbaar,31 fietsen,4
+Hollandse Rading OV-fiets Carrousel,https://ovfietsbeschikbaar.nl/locatie/hor001,Station Hollandsche Rading,52.17815,5.17915,18 fietsen beschikbaar,25 fietsen,7
+Holten,https://ovfietsbeschikbaar.nl/locatie/hon001,Station Holten,52.283962,6.421691,5 fietsen beschikbaar,8 fietsen,3
+Hoofddorp,https://ovfietsbeschikbaar.nl/locatie/hfd001,Station Hoofddorp,52.2933,4.69816,24 fietsen beschikbaar,57 fietsen,33
+Hoogeveen,https://ovfietsbeschikbaar.nl/locatie/hgv002,Station Hoogeveen,52.73309,6.47358,22 fietsen beschikbaar,31 fietsen,9
+Hoogezand Sappemeer,https://ovfietsbeschikbaar.nl/locatie/Hgz001,Station Hoogezand-Sappemeer,53.160117,6.771075,4 fietsen beschikbaar,4 fietsen,0
+Hoogkarspel,https://ovfietsbeschikbaar.nl/locatie/hks001,Station Hoogkarspel,52.69046,5.18181,2 fietsen beschikbaar,4 fietsen,2
+Hoorn,https://ovfietsbeschikbaar.nl/locatie/hn001,Station Hoorn,52.64469,5.05501,63 fietsen beschikbaar,68 fietsen,5
+Hoorn Kersenboogerd,https://ovfietsbeschikbaar.nl/locatie/hnk001,Station Hoorn Kersenboogerd,52.65339,5.08486,8 fietsen beschikbaar,8 fietsen,0
+Horst Sevenum,https://ovfietsbeschikbaar.nl/locatie/hrt001,Station Horst-Sevenum,51.4276,6.0408,1 fietsen beschikbaar,7 fietsen,6
+Houten,https://ovfietsbeschikbaar.nl/locatie/htn001,Station Houten,52.03487,5.16663,64 fietsen beschikbaar,74 fietsen,10
+Houten Castellum,https://ovfietsbeschikbaar.nl/locatie/htnc001,Station Houten Castellum,52.01759,5.18015,39 fietsen beschikbaar,55 fietsen,16
+Kampen,https://ovfietsbeschikbaar.nl/locatie/kpn002,Station Kampen,52.56016,5.92167,22 fietsen beschikbaar,32 fietsen,10
+Kerkrade Centrum,https://ovfietsbeschikbaar.nl/locatie/krd001,Station Kerkrade Centrum,50.86112,6.05724,Geen actuele beschikbaarheid.,None,0
+Krommenie-Assendelft,https://ovfietsbeschikbaar.nl/locatie/kma001,Station Krommenie-Assendelft,52.49511,4.75479,2 fietsen beschikbaar,4 fietsen,2
+Lage Zwaluwe,https://ovfietsbeschikbaar.nl/locatie/Zlw001,Station Lage Zwaluwe,51.690342,4.662253,1 fietsen beschikbaar,4 fietsen,3
+Landgraaf,https://ovfietsbeschikbaar.nl/locatie/lg001,Station Landgraaf,50.895754,6.020388,4 fietsen beschikbaar,4 fietsen,0
+Leeuwarden,https://ovfietsbeschikbaar.nl/locatie/lw001,Station Leeuwarden,53.19678,5.79636,167 fietsen beschikbaar,200 fietsen,33
+"Leiden Centraal, Centrumzijde",https://ovfietsbeschikbaar.nl/locatie/ledn002,Station Leiden Centraal,52.16557,4.48259,54 fietsen beschikbaar,114 fietsen,60
+"Leiden Centraal,Uitgang LUMC",https://ovfietsbeschikbaar.nl/locatie/ledn001,Station Leiden Centraal,52.165578,4.48155,419 fietsen beschikbaar,457 fietsen,38
+Leiden de Vink,https://ovfietsbeschikbaar.nl/locatie/dvnk001,Station De Vink,52.14708,4.45593,1 fietsen beschikbaar,4 fietsen,3
+Lelystad Centrum,https://ovfietsbeschikbaar.nl/locatie/lls002,Station Lelystad Centrum,52.50801,5.47328,26 fietsen beschikbaar,29 fietsen,3
+Lochem,https://ovfietsbeschikbaar.nl/locatie/lc001,Station Lochem,52.16652,6.42582,3 fietsen beschikbaar,8 fietsen,5
+Maarheeze,https://ovfietsbeschikbaar.nl/locatie/mz001,Station Maarheeze,51.30583,5.63594,3 fietsen beschikbaar,5 fietsen,2
+Maarssen,https://ovfietsbeschikbaar.nl/locatie/MAS001,Station Maarssen,52.135651,5.03139,20 fietsen beschikbaar,33 fietsen,13
+Maassluis,https://ovfietsbeschikbaar.nl/locatie/mss001,None,51.9168,4.2534,8 fietsen beschikbaar,10 fietsen,2
+Maastricht,https://ovfietsbeschikbaar.nl/locatie/mt001,Station Maastricht,50.84962,5.70491,170 fietsen beschikbaar,220 fietsen,50
+Maastricht Noord,https://ovfietsbeschikbaar.nl/locatie/mtn001,Station Maastricht Noord,50.871389,5.718611,4 fietsen beschikbaar,8 fietsen,4
+Maastricht Randwyck,https://ovfietsbeschikbaar.nl/locatie/mtr001,Station Maastricht Randwyck,50.83744,5.71778,Geen actuele beschikbaarheid.,None,0
+Meerssen,https://ovfietsbeschikbaar.nl/locatie/mes001,Station Meerssen,50.88299,5.75139,2 fietsen beschikbaar,4 fietsen,2
+Meppel,https://ovfietsbeschikbaar.nl/locatie/mp001,Station Meppel,52.69232,6.19411,22 fietsen beschikbaar,31 fietsen,9
+Middelburg,https://ovfietsbeschikbaar.nl/locatie/mdb001,Station Middelburg,51.49517,3.61768,16 fietsen beschikbaar,31 fietsen,15
+Muiden P&R,https://ovfietsbeschikbaar.nl/locatie/wp901,Station Weesp,52.32876,5.05091,8 fietsen beschikbaar,8 fietsen,0
+Naarden-Bussum,https://ovfietsbeschikbaar.nl/locatie/ndb002,Station Naarden-Bussum,52.28132,5.15793,44 fietsen beschikbaar,64 fietsen,20
+Nijmegen,https://ovfietsbeschikbaar.nl/locatie/nm001,Station Nijmegen,51.842825,5.853375,219 fietsen beschikbaar,336 fietsen,117
+Nijmegen Goffert,https://ovfietsbeschikbaar.nl/locatie/nmgo001,Station Nijmegen Goffert,51.827333,5.822722,1 fietsen beschikbaar,8 fietsen,7
+Nijmegen Heyendaal,https://ovfietsbeschikbaar.nl/locatie/nmh001,Station Nijmegen Heyendaal,51.82674,5.86735,Geen actuele beschikbaarheid.,None,0
+Nootdorp,https://ovfietsbeschikbaar.nl/locatie/gvc901,None,52.04758,4.415059,1 fietsen beschikbaar,4 fietsen,3
+Nunspeet,https://ovfietsbeschikbaar.nl/locatie/Ns001,Station Nunspeet,52.371034,5.783895,6 fietsen beschikbaar,8 fietsen,2
+Obdam,https://ovfietsbeschikbaar.nl/locatie/obd001,Station Obdam,52.67812,4.90919,4 fietsen beschikbaar,4 fietsen,0
+Oisterwijk,https://ovfietsbeschikbaar.nl/locatie/Ot001,Station Oisterwijk,51.582166,5.194901,6 fietsen beschikbaar,8 fietsen,2
+Oldenzaal,https://ovfietsbeschikbaar.nl/locatie/odz001,Station Oldenzaal,52.3064,6.93371,4 fietsen beschikbaar,4 fietsen,0
+Olst,https://ovfietsbeschikbaar.nl/locatie/ost001,Station Olst,52.33477,6.11278,1 fietsen beschikbaar,4 fietsen,3
+Ommen,https://ovfietsbeschikbaar.nl/locatie/omn001,Station Ommen,52.509888,6.417246,4 fietsen beschikbaar,6 fietsen,2
+Openbare fietsenstalling gemeente Groningen : Fietsenstalling Europapark,https://ovfietsbeschikbaar.nl/locatie/gerp002,Station Groningen Europapark,53.20479,6.58617,18 fietsen beschikbaar,62 fietsen,44
+Oss,https://ovfietsbeschikbaar.nl/locatie/o001,Station Oss,51.76545,5.53072,22 fietsen beschikbaar,29 fietsen,7
+Oss West,https://ovfietsbeschikbaar.nl/locatie/ow001,Station Oss West,51.758371,5.506984,5 fietsen beschikbaar,8 fietsen,3
+Otterlo,https://ovfietsbeschikbaar.nl/locatie/ed901,None,52.10367,5.76998,18 fietsen beschikbaar,21 fietsen,3
+Oudenbosch,https://ovfietsbeschikbaar.nl/locatie/odb001,Station Oudenbosch,51.58795,4.533291,7 fietsen beschikbaar,8 fietsen,1
+Overveen,https://ovfietsbeschikbaar.nl/locatie/ovn001,Station Overveen,52.39079,4.60765,4 fietsen beschikbaar,4 fietsen,0
+P + R Utrecht Science Park (De Uithof),https://ovfietsbeschikbaar.nl/locatie/ut906,None,52.08481,5.17314,7 fietsen beschikbaar,12 fietsen,5
+Pijnacker,https://ovfietsbeschikbaar.nl/locatie/rtd906,None,52.019488,4.437386,4 fietsen beschikbaar,4 fietsen,0
+Pijnacker Zuid,https://ovfietsbeschikbaar.nl/locatie/rtd907,None,52.00517,4.446053,2 fietsen beschikbaar,4 fietsen,2
+Purmerend,https://ovfietsbeschikbaar.nl/locatie/pmr001,Station Purmerend,52.50387,4.95413,2 fietsen beschikbaar,4 fietsen,2
+Purmerend Overwhere,https://ovfietsbeschikbaar.nl/locatie/pmo001,Station Purmerend Overwhere,52.51127,4.96773,3 fietsen beschikbaar,4 fietsen,1
+Putten,https://ovfietsbeschikbaar.nl/locatie/pt001,Station Putten,52.265248,5.575806,5 fietsen beschikbaar,8 fietsen,3
+Raalte,https://ovfietsbeschikbaar.nl/locatie/rat001,Station Raalte,52.39069,6.27817,5 fietsen beschikbaar,6 fietsen,1
+Ravenstein,https://ovfietsbeschikbaar.nl/locatie/Rvs001,Station Ravenstein,51.794968,5.637631,6 fietsen beschikbaar,8 fietsen,2
+Reuver,https://ovfietsbeschikbaar.nl/locatie/rv001,Station Reuver,51.28327,6.07882,4 fietsen beschikbaar,4 fietsen,0
+Rheden,https://ovfietsbeschikbaar.nl/locatie/rh001,Station Rheden,52.00973,6.03041,4 fietsen beschikbaar,6 fietsen,2
+Rhenen,https://ovfietsbeschikbaar.nl/locatie/rhn001,Station Rhenen,51.957323,5.578028,4 fietsen beschikbaar,4 fietsen,0
+Rijssen,https://ovfietsbeschikbaar.nl/locatie/rsn001,Station Rijssen,52.312883,6.523292,5 fietsen beschikbaar,8 fietsen,3
+Rijswijk,https://ovfietsbeschikbaar.nl/locatie/rsw001,Station Rijswijk,52.03988,4.31965,29 fietsen beschikbaar,32 fietsen,3
+Roermond,https://ovfietsbeschikbaar.nl/locatie/rm001,Station Roermond,51.19222,5.99312,48 fietsen beschikbaar,60 fietsen,12
+Roosendaal,https://ovfietsbeschikbaar.nl/locatie/rsd003,Station Roosendaal,51.54078,4.46115,47 fietsen beschikbaar,58 fietsen,11
+Rosmalen,https://ovfietsbeschikbaar.nl/locatie/rs001,Station Rosmalen,51.71515,5.36992,4 fietsen beschikbaar,6 fietsen,2
+Rotterdam Alexander,https://ovfietsbeschikbaar.nl/locatie/rta001,Station Rotterdam Alexander,51.952114,4.551931,4 fietsen beschikbaar,8 fietsen,4
+Rotterdam Blaak,https://ovfietsbeschikbaar.nl/locatie/rtb001,Station Rotterdam Blaak,51.920017,4.488638,19 fietsen beschikbaar,28 fietsen,9
+Rotterdam Centraal,https://ovfietsbeschikbaar.nl/locatie/rtd001,Station Rotterdam Centraal,51.923421,4.469738,544 fietsen beschikbaar,631 fietsen,87
+Rotterdam Fietspunt Marconiplein,https://ovfietsbeschikbaar.nl/locatie/Rtd004,None,51.913304,4.432742,10 fietsen beschikbaar,16 fietsen,6
+Rotterdam Fietspunt Wilhelminakade Prinsendam,https://ovfietsbeschikbaar.nl/locatie/Rtd003,None,51.907233,4.490302,6 fietsen beschikbaar,15 fietsen,9
+Rotterdam Kralingse Zoom,https://ovfietsbeschikbaar.nl/locatie/Rta003,Station Rotterdam Alexander,51.921747,4.534107,15 fietsen beschikbaar,23 fietsen,8
+Rotterdam Lombardijen,https://ovfietsbeschikbaar.nl/locatie/rlb001,Station Rotterdam Lombardijen,51.87999,4.53112,7 fietsen beschikbaar,8 fietsen,1
+Rotterdam Slinge,https://ovfietsbeschikbaar.nl/locatie/rtd904,None,51.874121,4.4776,7 fietsen beschikbaar,8 fietsen,1
+s-Hertogenbosch,https://ovfietsbeschikbaar.nl/locatie/ht001,Station 's-Hertogenbosch,51.69065,5.29352,232 fietsen beschikbaar,225 fietsen,-7
+Santpoort Noord,https://ovfietsbeschikbaar.nl/locatie/sptn001,Station Santpoort Noord,52.434,4.63195,7 fietsen beschikbaar,8 fietsen,1
+Santpoort Zuid,https://ovfietsbeschikbaar.nl/locatie/sptz001,Station Santpoort Zuid,52.41917,4.63085,7 fietsen beschikbaar,8 fietsen,1
+Schagen,https://ovfietsbeschikbaar.nl/locatie/sgn001,Station Schagen,52.78558,4.80506,15 fietsen beschikbaar,20 fietsen,5
+Schiedam,https://ovfietsbeschikbaar.nl/locatie/sdm001,Station Schiedam Centrum,51.921491,4.40774,26 fietsen beschikbaar,30 fietsen,4
+Schiphol,https://ovfietsbeschikbaar.nl/locatie/shl001,Station Schiphol Airport,52.30963,4.76206,3 fietsen beschikbaar,4 fietsen,1
+Sittard,https://ovfietsbeschikbaar.nl/locatie/std001,Station Sittard,51.00126,5.85969,32 fietsen beschikbaar,32 fietsen,0
+Sleeuwijk Tol West,https://ovfietsbeschikbaar.nl/locatie/GR002%20,None,51.80099,4.930693,3 fietsen beschikbaar,3 fietsen,0
+Sliedrecht,https://ovfietsbeschikbaar.nl/locatie/sdt001,Station Sliedrecht,51.82931,4.77768,1 fietsen beschikbaar,4 fietsen,3
+Sneek,https://ovfietsbeschikbaar.nl/locatie/sk001,Station Sneek,53.03254,5.65161,3 fietsen beschikbaar,4 fietsen,1
+Soest Zuid,https://ovfietsbeschikbaar.nl/locatie/stz001,Station Soest Zuid,52.16521,5.30299,3 fietsen beschikbaar,8 fietsen,5
+Soestdijk,https://ovfietsbeschikbaar.nl/locatie/sd001,Station Soestdijk,52.18376,5.29967,1 fietsen beschikbaar,4 fietsen,3
+Steenwijk,https://ovfietsbeschikbaar.nl/locatie/swk001,Station Steenwijk,52.79051,6.11712,14 fietsen beschikbaar,15 fietsen,1
+Terborg,https://ovfietsbeschikbaar.nl/locatie/tbg001,Station Terborg,51.9223,6.3644,5 fietsen beschikbaar,6 fietsen,1
+Tiel,https://ovfietsbeschikbaar.nl/locatie/tl002,Station Tiel,51.88973,5.42399,27 fietsen beschikbaar,32 fietsen,5
+Tilburg Noord,https://ovfietsbeschikbaar.nl/locatie/tb002,Station Tilburg,51.56099,5.086718,66 fietsen beschikbaar,101 fietsen,35
+Tilburg Reeshof,https://ovfietsbeschikbaar.nl/locatie/tbr001,Station Tilburg Reeshof,51.574534,4.99477,1 fietsen beschikbaar,4 fietsen,3
+Tilburg West Universiteit,https://ovfietsbeschikbaar.nl/locatie/tbu001,Station Tilburg Universiteit,51.565278,5.052372,15 fietsen beschikbaar,23 fietsen,8
+Tilburg Zuid,https://ovfietsbeschikbaar.nl/locatie/tb003,Station Tilburg,51.5602,5.086418,166 fietsen beschikbaar,245 fietsen,79
+Uden,https://ovfietsbeschikbaar.nl/locatie/Ow002,None,51.66025,5.617562,5 fietsen beschikbaar,8 fietsen,3
+Uitgeest,https://ovfietsbeschikbaar.nl/locatie/utg001,Station Uitgeest,52.52228,4.70232,1 fietsen beschikbaar,None,-1
+Utrecht Centraal Jaarbeursplein,https://ovfietsbeschikbaar.nl/locatie/ut016,Station Utrecht Centraal,52.08895,5.10756,528 fietsen beschikbaar,677 fietsen,149
+Utrecht Centraal Knoop,https://ovfietsbeschikbaar.nl/locatie/ut021,Station Utrecht Centraal,52.087374,5.109469,70 fietsen beschikbaar,107 fietsen,37
+Utrecht Centraal Stationsplein,https://ovfietsbeschikbaar.nl/locatie/ut020,Station Utrecht Centraal,52.089548,5.109781,834 fietsen beschikbaar,919 fietsen,85
+Utrecht Janskerkhof,https://ovfietsbeschikbaar.nl/locatie/ut018,None,52.093019,5.121088,1 fietsen beschikbaar,13 fietsen,12
+Utrecht Leidsche Rijn,https://ovfietsbeschikbaar.nl/locatie/utlr001,Station Utrecht Leidsche Rijn,52.09918,5.06476,4 fietsen beschikbaar,8 fietsen,4
+Utrecht Lunetten,https://ovfietsbeschikbaar.nl/locatie/utl001,Station Utrecht Lunetten,52.06564,5.14323,1 fietsen beschikbaar,5 fietsen,4
+Utrecht Mariaplaats,https://ovfietsbeschikbaar.nl/locatie/ut014,None,52.08987,5.11841,17 fietsen beschikbaar,20 fietsen,3
+Utrecht Overvecht,https://ovfietsbeschikbaar.nl/locatie/uto001,Station Utrecht Overvecht,52.109965,5.123593,16 fietsen beschikbaar,30 fietsen,14
+Utrecht P+R Papendorp,https://ovfietsbeschikbaar.nl/locatie/ut904,None,52.06917,5.08139,3 fietsen beschikbaar,4 fietsen,1
+Utrecht P+R Science Park (De Uithof) ZS,https://ovfietsbeschikbaar.nl/locatie/ut908,None,52.08481,5.17314,9 fietsen beschikbaar,27 fietsen,18
+Utrecht P+R Westraven,https://ovfietsbeschikbaar.nl/locatie/ut007,None,52.05745,5.10406,13 fietsen beschikbaar,24 fietsen,11
+Utrecht Rijnsweerd,https://ovfietsbeschikbaar.nl/locatie/ut903,None,52.092506,5.152792,11 fietsen beschikbaar,15 fietsen,4
+Utrecht Stadhuis,https://ovfietsbeschikbaar.nl/locatie/ut003,None,52.09224,5.11957,4 fietsen beschikbaar,14 fietsen,10
+Utrecht Terwijde,https://ovfietsbeschikbaar.nl/locatie/utt001,Station Utrecht Terwijde,52.10017,5.04424,4 fietsen beschikbaar,8 fietsen,4
+Utrecht Vaartsche Rijn Oosterkade,https://ovfietsbeschikbaar.nl/locatie/ut019,Station Utrecht Vaartsche Rijn,52.078023,5.122392,89 fietsen beschikbaar,121 fietsen,32
+Utrecht Vredenburg,https://ovfietsbeschikbaar.nl/locatie/ut006,None,52.09261,5.11462,8 fietsen beschikbaar,29 fietsen,21
+Utrecht Zuilen,https://ovfietsbeschikbaar.nl/locatie/utzl001,Station Utrecht Zuilen,52.10341,5.08945,8 fietsen beschikbaar,14 fietsen,6
+Valkenburg,https://ovfietsbeschikbaar.nl/locatie/vk001,Station Valkenburg,50.86873,5.833601,5 fietsen beschikbaar,6 fietsen,1
+Varsseveld,https://ovfietsbeschikbaar.nl/locatie/vsv001,Station Varsseveld,51.93728,6.45807,4 fietsen beschikbaar,4 fietsen,0
+Veendam,https://ovfietsbeschikbaar.nl/locatie/Vdm001,Station Veendam,53.104299,6.884732,4 fietsen beschikbaar,6 fietsen,2
+Veenendaal,https://ovfietsbeschikbaar.nl/locatie/vndc002,Station Veenendaal Centrum,52.020273,5.548828,2 fietsen beschikbaar,4 fietsen,2
+Veenendaal West,https://ovfietsbeschikbaar.nl/locatie/vndw001,Station Veenendaal West,52.028551,5.533195,9 fietsen beschikbaar,11 fietsen,2
+Veenendaal-De klomp,https://ovfietsbeschikbaar.nl/locatie/klp001,Station Veenendaal-De Klomp,52.045557,5.573761,26 fietsen beschikbaar,32 fietsen,6
+Veghel,https://ovfietsbeschikbaar.nl/locatie/Btl003,None,51.614573,5.545731,5 fietsen beschikbaar,8 fietsen,3
+Velp,https://ovfietsbeschikbaar.nl/locatie/vp001,Station Velp,51.99526,5.98094,3 fietsen beschikbaar,4 fietsen,1
+Venlo,https://ovfietsbeschikbaar.nl/locatie/vl001,Station Venlo,51.365024,6.171608,43 fietsen beschikbaar,64 fietsen,21
+Venray,https://ovfietsbeschikbaar.nl/locatie/vry001,Station Venray,51.52736,6.01351,8 fietsen beschikbaar,24 fietsen,16
+Vianen OV-fiets Carrousel,https://ovfietsbeschikbaar.nl/locatie/ut905,None,51.9891,5.08497,23 fietsen beschikbaar,24 fietsen,1
+Vierlingsbeek,https://ovfietsbeschikbaar.nl/locatie/vlb001,Station Vierlingsbeek,51.592001,5.997284,4 fietsen beschikbaar,4 fietsen,0
+Vleuten,https://ovfietsbeschikbaar.nl/locatie/vtn001,Station Vleuten,52.102785,5.008076,1 fietsen beschikbaar,4 fietsen,3
+Vlissingen,https://ovfietsbeschikbaar.nl/locatie/vs001,Station Vlissingen,51.44385,3.59536,24 fietsen beschikbaar,25 fietsen,1
+Voorburg,https://ovfietsbeschikbaar.nl/locatie/vb001,Station Voorburg,52.06676,4.35956,29 fietsen beschikbaar,32 fietsen,3
+Voorhout,https://ovfietsbeschikbaar.nl/locatie/vh001,Station Voorhout,52.2237,4.4842,4 fietsen beschikbaar,4 fietsen,0
+Voorschoten,https://ovfietsbeschikbaar.nl/locatie/vst001,Station Voorschoten,52.12624,4.43502,1 fietsen beschikbaar,4 fietsen,3
+Vriezenveen,https://ovfietsbeschikbaar.nl/locatie/vz001,Station Vriezenveen,52.40158,6.60089,4 fietsen beschikbaar,5 fietsen,1
+Vroomshoop,https://ovfietsbeschikbaar.nl/locatie/vhp001,Station Vroomshoop,52.45748,6.57211,3 fietsen beschikbaar,4 fietsen,1
+Vught,https://ovfietsbeschikbaar.nl/locatie/Vg001,Station Vught,51.6559,5.292095,2 fietsen beschikbaar,8 fietsen,6
+Waalwijk,https://ovfietsbeschikbaar.nl/locatie/ht002,None,51.686951,5.071715,4 fietsen beschikbaar,8 fietsen,4
+Weert,https://ovfietsbeschikbaar.nl/locatie/wt001,Station Weert,51.2493,5.70558,25 fietsen beschikbaar,31 fietsen,6
+Weesp,https://ovfietsbeschikbaar.nl/locatie/wp001,Station Weesp,52.31266,5.04215,47 fietsen beschikbaar,56 fietsen,9
+Westervoort,https://ovfietsbeschikbaar.nl/locatie/wtv001,Station Westervoort,51.96271,5.96851,6 fietsen beschikbaar,6 fietsen,0
+Wijchen,https://ovfietsbeschikbaar.nl/locatie/wc001,Station Wijchen,51.81136,5.72893,Geen actuele beschikbaarheid.,None,0
+Wijhe,https://ovfietsbeschikbaar.nl/locatie/wh001,Station Wijhe,52.39079,6.13632,3 fietsen beschikbaar,4 fietsen,1
+Winschoten,https://ovfietsbeschikbaar.nl/locatie/ws001,Station Winschoten,53.13925,7.03468,7 fietsen beschikbaar,8 fietsen,1
+Winsum,https://ovfietsbeschikbaar.nl/locatie/Wsm001,Station Winsum,53.329908,6.519858,4 fietsen beschikbaar,4 fietsen,0
+Winterswijk,https://ovfietsbeschikbaar.nl/locatie/ww001,Station Winterswijk,51.96775,6.71545,5 fietsen beschikbaar,6 fietsen,1
+Woerden,https://ovfietsbeschikbaar.nl/locatie/wd001,Station Woerden,52.08536,4.89283,36 fietsen beschikbaar,55 fietsen,19
+Wolfheze,https://ovfietsbeschikbaar.nl/locatie/wf001,Station Wolfheze,52.0057,5.79213,4 fietsen beschikbaar,4 fietsen,0
+Zaandam,https://ovfietsbeschikbaar.nl/locatie/ZD003,Station Zaandam,52.438795,4.815877,36 fietsen beschikbaar,52 fietsen,16
+Zaltbommel,https://ovfietsbeschikbaar.nl/locatie/zbm001,Station Zaltbommel,51.80812,5.26288,16 fietsen beschikbaar,32 fietsen,16
+Zandvoort,https://ovfietsbeschikbaar.nl/locatie/zvt001,Station Zandvoort aan Zee,52.375859,4.531626,7 fietsen beschikbaar,29 fietsen,22
+Zeist,https://ovfietsbeschikbaar.nl/locatie/db002,None,52.08909,5.24928,22 fietsen beschikbaar,24 fietsen,2
+Zevenaar,https://ovfietsbeschikbaar.nl/locatie/zv001,Station Zevenaar,51.92322,6.07304,2 fietsen beschikbaar,6 fietsen,4
+Zevenbergen,https://ovfietsbeschikbaar.nl/locatie/Zvb001,Station Zevenbergen,51.641976,4.609567,7 fietsen beschikbaar,8 fietsen,1
+Zoetermeer Centrum West,https://ovfietsbeschikbaar.nl/locatie/ztm002,Station Zoetermeer,52.06024,4.48739,21 fietsen beschikbaar,21 fietsen,0
+Zoetermeer Driemanspolder,https://ovfietsbeschikbaar.nl/locatie/ztm003,Station Zoetermeer,52.04909,4.47663,21 fietsen beschikbaar,22 fietsen,1
+Zoetermeer Oost,https://ovfietsbeschikbaar.nl/locatie/ztmo001,Station Zoetermeer Oost,52.04661,4.49133,4 fietsen beschikbaar,4 fietsen,0
+Zuidhorn,https://ovfietsbeschikbaar.nl/locatie/Zh001,Station Zuidhorn,53.248163,6.406382,8 fietsen beschikbaar,8 fietsen,0
+Zutphen,https://ovfietsbeschikbaar.nl/locatie/zp001,Station Zutphen,52.14475,6.19585,111 fietsen beschikbaar,126 fietsen,15
+Zwijndrecht,https://ovfietsbeschikbaar.nl/locatie/zwd002,Station Zwijndrecht,51.81608,4.64041,28 fietsen beschikbaar,32 fietsen,4
+Zwolle,https://ovfietsbeschikbaar.nl/locatie/zl004,Station Zwolle,52.505809,6.090895,329 fietsen beschikbaar,377 fietsen,48
+Zwolle Hanzeland/Zuidzijde,https://ovfietsbeschikbaar.nl/locatie/zl002,Station Zwolle,52.50499,6.09106,24 fietsen beschikbaar,31 fietsen,7

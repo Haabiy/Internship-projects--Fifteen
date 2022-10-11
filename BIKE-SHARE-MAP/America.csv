@@ -1,0 +1,157 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,timezone,operator,operator_name,system_type,system_website,technology
+Argentina,Buenos Aires,1650,Buenos Aires Ciudad,2015-02-21,,America/Argentina/Buenos_Aires,Buenos Aires Ciudad,BA Ecobici por Tembici,Dock-based,https://baecobici.com.ar/,
+Aruba,Aruba,0,,,,America/Aruba,Friendly Green Bike Company Aruba ,Green Bike,Dock-based,http://greenbikearuba.com/en/home/,PBSC
+Brazil,Fortaleza,859,Prefeitura de Fortaleza,,,America/Fortaleza,Samba,Bicicletar,Dock-based,http://www.bicicletar.com.br/mapaestacao.aspx,Samba
+Brazil,Petrolina,14,,,2019-11-24,America/Recife,Samba,PetroBike,,,
+Brazil,Porto Alegre,300,Prefeitura de Porto Alegre,,,America/Sao_Paulo,Tembici,Bike POA,Dock-based,https://bikeitau.com.br/bikepoa/,PBSC
+Brazil,Recife,352,,,,America/Recife,Tembici,Bike PE,Dock-based,https://bikeitau.com.br/bikepe/,PBSC
+Brazil,Rio de Janeiro,2062,,,,America/Sao_Paulo,Tembici,Bike Rio,Dock-based,https://bikeitau.com.br/bikerio/,PBSC
+Brazil,Riviera de São Lourenço,49,Riviera de São Lourenço,2018-12-01,,America/Sao_Paulo,Tembici,RiviBike,Dock-based,https://www.rivieradesaolourenco.com/rivibike-2/,PBSC
+Brazil,Salvador,59,,,,America/Bahia,Tembici,Bike Salvador,Dock-based,https://bikeitau.com.br/bikesalvador/,PBSC
+Brazil,Santos,80,,,,America/Sao_Paulo,Samba,Bike Santos,,http://www.mobilicidade.com.br/bikesantos/,
+Brazil,São Paulo,1349,Prefeitura de São Paulo,,,America/Sao_Paulo,Tembici,Bike Sampa,Dock-based,https://bikeitau.com.br/bikesampa/,PBSC
+Brazil,Sorocaba,90,Prefeitura de Sorocaba,,,America/Sao_Paulo,Urbes,IntegraBike,Dock-based,https://integrabike.tembici.com.br/,Tembici
+Brazil,Vila Velha,100,Prefeitura de Vila Velha,,,America/Sao_Paulo,Tembici,Bike VV,Dock-based,https://www.bikevv.com.br/,PBSC
+Canada,Hamilton,555,City of Hamilton,2015-03-20,,America/Toronto,Hamilton Bike Share,Hamilton Bike Share,Hybrid,http://www.hamiltonbikeshare.ca/,SoBi
+Canada,Montréal,7134,Montreal,2009-05-12,,America/Montreal,BIXI Montréal,BIXI Montréal,Dock-based,https://montreal.bixi.com/en,8D
+Canada,Ottawa/Gatineau,0,,,,America/Toronto,CycleHop,VeloGo,Hybrid,https://velogo.ca/,SoBi
+Canada,Québec City,83,Réseau de Transport de la Capitale,2021-07-09,2021-10-31,America/Toronto,Réseau de Transport de la Capitale,àVélo,Dock-based,https://www.rtcquebec.ca/informations-pratiques/services-complementaires/avelo,PBSC
+Canada,Toronto,5302,City of Toronto,2011-05-03,,America/Toronto,Shift Transit (PBSC),Bike Share Toronto,Dock-based,https://bikesharetoronto.com/,PBSC
+Canada,University of British Columbia,65,UBC,2019-07-23,,America/Vancouver,HOPR,HOPR,Dock-based,https://gohopr.com/ubc/,HOPR
+Canada,Vancouver,1723,City of Vancouver,2016-07-20,,America/Vancouver,CycleHop,Mobi,Dock-based,https://www.mobibikes.ca/,Smoove
+Canada,Victoria,0,,,2020-06-02,America/Vancouver,,nextbike Canada,,https://canada.nextbike.net/,nextbike
+Chile,Santiago,1207,Municipality of Las Condes,2015-03-01,,America/Santiago,Tembici,Bike Santiago,Dock-based,https://www.bikesantiago.cl/,Shift/PBSC
+Chile,Santiago: Las Condes,662,Municipality of Las Condes,2015-03-01,,America/Santiago,Clear Channel,Bici Las Condes,Dock-based,https://www.bicilascondes.cl/,SmartBike
+Mexico,Cancún,0,,,,America/Cancun,Motum,YOY,Dock-based,https://www.yoymobility.com/en/cancun/,Nextbike
+Mexico,Guadalajara,2319,Instituto de Movilidad y Transporte del Estado de Jalisco,,,America/Mexico_City,BKT Bici Pública,MIBICI,Dock-based,https://www.mibici.net/en/,PBSC
+Mexico,Mexico City,4464,Ciudad de México,2010-02-15,,America/Mexico_City,Clear Channel,ECOBICI,Dock-based,https://www.ecobici.cdmx.gob.mx/en,SmartBike
+Mexico,Puebla,104,,2017-01-01,,America/Mexico_City,Sistema Operado por Cyclo Share de México,UrbanBici,Dock-based,http://www.urbanbici.mx/,Cycloshare
+Mexico,Querétaro,300,Querétaro Municipio,2018-02-28,,America/Mexico_City,EMU (Estrategias de Movilidad Urbana),QROBICI,Dock-based,https://qrobici.mx/,Samba
+Mexico,San Luis Potosi,0,,2020-10-25,2021-06-14,America/Mexico_City,Motum,Yoy,Dock-based,https://www.yoymobility.com/en/sanluis/,Nextbike
+Uruguay,Montevideo,59,,,2019-03-13,America/Montevideo,,Movete,, http://movete.montevideo.gub.uy,Usual Bike
+USA,Albany & Troy,170,Capital District Transportation Authority,2017-07-27,,America/New_York,SoBi,CDPHP Cycle!,Hybrid,https://cdphpcycle.com/,SoBi
+USA,Ashland,50,,,,America/Los_Angeles,Zagster,Rogue Bike Share,Dock-based,http://zagster.com/jacksoncounty/,Zagster
+USA,Aspen & Basalt,2,Roaring Fork Transportation Authority,2013-06-05,,America/Denver,WE-cycle,WE-cycle,Dock-based,https://www.we-cycle.org/,PBSC
+USA,Atlanta,395,City of Atlanta,2016-06-09,,America/New_York,CycleHop,Relay,Hybrid,http://relaybikeshare.com/,SoBi
+USA,Austin,363,City of Austin,2013-12-21,,America/Chicago,Bike Share of Austin,Austin B-cycle,Dock-based,https://austinbcycle.com/,B-cycle
+USA,Baltimore,100,City of Baltimore,2016-10-28,,America/New_York,Baltimore Department of Transportation,Baltimore Bike Share,Dock-based,https://www.bmorebikeshare.com/,Bewegen
+USA,Baltimore (JUMP),480,Baltimore City Department of Transportation,2019-04-14,,America/New_York,JUMP by Uber,JUMP,Dock-based,https://www.jump.com/us/en/cities/baltimore/,SoBi
+USA,Bay Area Skip,300,Bay Area,,,America/Los_Angeles,Skip,Skip,Hybrid,https://skipscooters.com/,Skip
+USA,Beverly Hills,100,City of Beverly Hills,2016-05-10,,America/Los_Angeles,CycleHop,Beverly Hills Bike Share,Hybrid,http://beverlyhillsbikeshare.com/,SoBi
+USA,Birmingham,201,City of Birmingham,2015-09-01,,America/Chicago,REV Birmingham,Zyp,Dock-based,https://www.zypbikeshare.com/,Bewegen
+USA,Boise,115,Valley Regional Transit,2015-04-22,2020-09-16,America/Boise,Valley Regional Transit,Boise Green Bike,Hybrid,https://boise.greenbike.com/,SoBi
+USA,Boulder,215,,2011-05-14,,America/Denver,B-cycle,Boulder B-cycle,Dock-based,https://boulder.bcycle.com/,B-cycle
+USA,Broward,128,Broward County Transit,2011-12-13,,America/New_York,B-cycle,AvMed Rides,Dock-based,https://broward.bcycle.com/,B-cycle
+USA,Buffalo,175,City of Buffalo,2016-07-21,,America/New_York,Shared Mobility,Reddy bikeshare,Hybrid,https://reddybikeshare.socialbicycles.com/,SoBi
+USA,Carmel,50,,,,America/New_York,Zagster,Carmel,Dock-based,http://zagster.com/carmel/,Zagster
+USA,Carrollton,50,,,,America/New_York,Zagster,Carrollton,Dock-based,http://zagster.com/carrollton/,Zagster
+USA,Charleston,703,Charleston,2017-05-30,,America/New_York,Gotcha Bike,Holy Spokes,Hybrid,https://charlestonbikeshare.com/,SoBi/Gotcha
+USA,Charlotte,178,,,,America/New_York,,Charlotte B-cycle,, http://charlotte.bcycle.com/,
+USA,Chattanooga,297,City of Chattanooga,2012-07-23,,America/New_York,Shift Transit (PBSC),Bike Chattanooga,Dock-based,http://www.bikechattanooga.com/,PBSC
+USA,Chicago,5696,Chicago Department of Transportation,2013-07-01,,America/Chicago,Motivate,Divvy,Dock-based,https://www.divvybikes.com/,PBSC
+USA,Chicago (JUMP),0,,,,America/Chicago,Uber,JUMP,Dockless,https://uk.jump.com/gb/en/cities/chicago/,SoBi
+USA,Cincinnati,368,,,,America/New_York,,Red Bike,, http://www.cincyredbike.org/,
+USA,College Park,50,,,,America/New_York,Zagster,mBike,Dock-based,http://zagster.com/mbike/,Zagster
+USA,Colorado Springs,120,City of Colorado Springs,2018-06-26,,America/Denver,Downtown Ventures,PikeRide,Hybrid,http://pikeride.org/faq/,BCycle
+USA,Columbia (Howard County),100,,2017-07-06,,America/New_York,Corps Logistics,Howard County Bikeshare,Dock-based,https://www.howardcountybikeshare.com/,Bewegen
+USA,Columbia SC,72,,2018-10-08,,America/New_York,Bewegen,Blue Bike,Dock-based,https://www.bluebikesc.com/,Bewegen
+USA,Columbus,315,City of Columbus,2013-07-30,,America/New_York,Motivate,CoGo,Dock-based,https://www.cogobikeshare.com/,PBSC
+USA,Conway,50,,,,America/Chicago,Zagster,Conway,Dock-based,http://zagster.com/conway/,Zagster
+USA,Dayton,180,Greater Dayton RTA,2015-05-05,2020-03-23,America/New_York,Bike Miami Valley,Link,Dock-based,https://www.linkdayton.org/,Drop
+USA,Dearborn,50,,,,America/Chicago,Zagster,Dearborn,Dock-based,http://zagster.com/dearborn/,Zagster
+USA,Denver,613,City and County of Denver,2010-04-22,,America/Denver,Lyft,Lyft,Hub-based,https://www.lyft.com/bikes/denver-co,Lyft
+USA,Denver Meridian Campus,50,,,,America/Chicago,Zagster,Meridian International,Dock-based,http://zagster.com/meridian/,Zagster
+USA,Des Moines,115,,,,America/Chicago,,Des Moines B-cycle,, http://desmoines.bcycle.com/,
+USA,Detroit,358,City of Detroit,2017-05-23,,America/Detroit,Shift Transit (PBSC),MoGo,Dock-based,https://mogodetroit.org/,PBSC
+USA,East Bay,942,San Francisco Bay Area Metropolitan Transportation Commission,2013-08-29,,America/Los_Angeles,Lyft,Bay Wheels,Dock-based,https://www.lyft.com/bikes/bay-wheels,PBSC
+USA,El Paso,110,Camino Real Regional Mobility Authority,2015-09-14,,America/Denver,B-cycle,SunCycle,Dock-based,https://elpaso.bcycle.com/,B-cycle
+USA,Encinitas,52,,2022-01-05,,America/Los_Angeles,Encinitas BCycle,Encinitas BCycle,Dock-based,https://encinitas.bcycle.com/,BCycle/TREK
+USA,Forest Preserves of Cook County,37,Forest Preserve District of Cook County,2018-05-30,,America/Chicago,Hopr,Hopr,Virtual zone dockless,https://gohopr.com/chicagoland/,Hopr
+USA,Fort Worth,311,,,,America/Chicago,,Fort Worth B-cycle,, http://fortworth.bcycle.com/,
+USA,Greater Boston,2682,City of Boston (& others),2011-07-28,,America/New_York,Motivate,Bluebikes,Dock-based,https://www.bluebikes.com/,8D
+USA,Greenville,48,,,,America/New_York,,Greenville B-cycle,, http://greenville.bcycle.com/,
+USA,Hailey/Ketchum,12,,,2018-12-19,America/Boise,,Mountain Rides,, http://mrbikeshare.org/,
+USA,Harrisburg,50,,,2020-06-11,America/New_York,Zagster,Harrisburg,Dock-based,http://zagster.com/harrisburg/,Zagster
+USA,Hoboken & Bayonne,139,City of Hoboken,2015-10-17,2020-10-09,America/New_York,P3 Global Management,Hudson Bike Share (JerseyBike),Hybrid,https://hudsonbikeshare.com/,nextbike
+USA,Houston,788,,,,America/Chicago,,Houston B-cycle,, http://houston.bcycle.com/,
+USA,Indianapolis,194,,,,America/Indiana/Indianapolis,,Indiana Pacers Bikeshare,, https://www.pacersbikeshare.org/,
+USA,Jackson,50,Town of Jackson,2018-04-11,,America/Denver,BCycle,START Bike,Hybrid,https://startbike.bcycle.com/,BCycle
+USA,Kansas City,201,Kansas City Regional Transit,,,America/Chicago,B-cycle,RideKC Bike,,http://ridekcbike.com/,B-cycle
+USA,Kent State University,0,,,2018-11-05,America/New_York,,Flashfleet Kent State University,,http://www.kent.edu/recservices/flashfleet/,nextbike
+USA,Lafayette and Purdue,50,,,,America/New_York,Zagster,Purdue,Dock-based,http://zagster.com/purdue/,Zagster
+USA,Las Vegas,200,Regional Transportation Commission of Southern Nevada,2016-10-03,,America/Los_Angeles,Bicycle Transit Systems,RTC Bike Share,Dock-based,https://bikeshare.rtcsnv.com/,BCycle
+USA,Lincoln,120,City of Lincoln,2018-06-26,,America/Chicago,BCycle,BikeLNK,Dock-based,https://bikelnk.bcycle.com/,BCycle
+USA,Long Beach CA,104,,,,America/Los_Angeles,,SoBi Long Beach,,https://sobilongbeach.com/,
+USA,Long Beach NY,104,,,2019-10-01,America/New_York,,SoBi Long Beach NY,,,
+USA,Longmont,50,,,,America/Denver,Zagster,Longmont,Dock-based,http://zagster.com/longmont/,Zagster
+USA,Los Angeles,1223,,,,America/Los_Angeles,,Metro Bike Share,, https://bikeshare.metro.net/,
+USA,Louisville,100,"City of Louisville, Kentucky",2017-05-27,,America/Kentucky/Louisville,CycleHop,LouVelo,Dock-based,https://louvelo.com/,PBSC
+USA,Madison,235,,,,America/Chicago,,Madison B-cycle,Dock-based, http://madison.bcycle.com/,B-cycle
+USA,Memphis,100,City of Memphis,2018-05-23,,America/Chicago,Explore Bike Share,Explore Bike Share,Hybrid,https://explorebikeshare.bcycle.com/,BCycle
+USA,Miami,1007,,,,America/New_York,,Citi Bike,, http://www.decobike.com/miamibeach,
+USA,Milwaukee,433,,,,America/Chicago,,Bublr,,http://bublrbikes.org/,
+USA,Minneapolis,1981,City of Minneapolis,2010-06-10,,America/Chicago,Nice Ride Minnesota,Nice Ride,Hybrid,https://www.niceridemn.com/,8D
+USA,Nashville,196,,,,America/Chicago,,Nashville B-cycle,, http://nashville.bcycle.com/,
+USA,New Orleans,100,City of New Orleans,2017-12-05,,America/Chicago,City of New Orleans,Blue Bikes NOLA,Hybrid,https://bluebikesnola.com/,SoBi
+USA,New York (JUMP),35,,,,America/New_York,Uber,JUMP,Dockless,,SoBi
+USA,New York (Lime),0,,,,America/New_York,Lime,Lime,Dock-based,https://www.li.me/locations/nyc,Lime
+USA,New York City,21575,New York City DOT,2013-05-23,,America/New_York,Motivate,Citi Bike,Dock-based,https://www.citibikenyc.com/,8D
+USA,Ohio State University,50,,,2018-08-14,America/New_York,Zagster,Ohio State,Dock-based,http://zagster.com/ohiostate/,Zagster
+USA,Omaha,150,,,,America/Chicago,,Omaha B-cycle,, http://omaha.bcycle.com/,
+USA,Orlando,171,,,2021-04-30,America/New_York,Hopr,Juice,Virtual zone dockless,https://juicebikeshare.com/,
+USA,Park City,100,,2017-07-19,2019-04-06,America/Denver,Corps Logistics,Summit Bike Share,Dock-based,https://www.summitbikeshare.com/,Bewegen
+USA,Penn State University,50,,,,America/New_York,Zagster,Penn State,Dock-based,http://zagster.com/psu/,Zagster
+USA,Philadelphia,1041,City of Philadelphia,2015-04-23,,America/New_York,Bicycle Transit Systems,Indego,Dock-based,https://www.rideindego.com/,BCycle
+USA,Phoenix/Tempe,703,Phoenix (& others),2014-11-25,2021-01-15,America/Phoenix,CycleHop,Grid,Hybrid,http://gridbikes.com/,SoBi
+USA,Pioneer Valley,100,Pioneer Valley Planning Commission,2018-06-28,,America/New_York,Corps Logistics,ValleyBike,Dock-based,https://www.valleybike.org/,Bewegen
+USA,Pittsburgh,300,Pittsburgh Bike Share,2015-05-31,,America/New_York,Pittsburgh Bike Share,Healthy Ride Pittsburgh,Dock-based,https://healthyridepgh.com/,nextbike
+USA,Portland,846,Portland Bureau of Transportation,2016-07-19,,America/Los_Angeles,Motivate,BIKETOWN,Hybrid, https://www.biketownpdx.com/,SoBi
+USA,Portland Skip,300,Portland,,,America/Los_Angeles,Skip,Skip,Hybrid,https://skipscooters.com/,Skip
+USA,Princeton University,50,,,2020-06-12,America/New_York,Zagster,Princeton,Dock-based,http://zagster.com/princeton/,Zagster
+USA,Raleigh,170,City of Raleigh,2019-03-16,,America/New_York,Bewegen,Citrix Cycle,Dock-based,https://www.citrixcycle.com/,Bewegen
+USA,Richmond,134,,2017-08-28,,America/New_York,Corps Logistics,RVA Bike Share,Dock-based,https://www.rvabikes.com/,Bewegen
+USA,Rio Grande Valley,50,,,,America/Chicago,Zagster,Bike Share RGV,Dock-based,http://zagster.com/rgvbikeshare/,Zagster
+USA,Rio Grande Valley,64,City of McAllen,,,America/Chicago,BCycle,RGV BCycle,Dock-based,https://mcallen.bcycle.com/,BCycle
+USA,Roanoke,50,,,,America/New_York,Zagster,"Roanoke, VA",Dock-based,http://zagster.com/ridesolutions/,Zagster
+USA,Salem,50,,,,America/New_York,Zagster,"Salem, MA",Dock-based,http://zagster.com/salem/,Zagster
+USA,Salt Lake City,301,,,,America/Denver,,GREENbike,, http://www.greenbikeslc.org/,
+USA,San Antonio,440,City of San Antonio,2011-03-26,,America/Chicago,San Antonio BCycle,San Antonio BCycle,Dock-based,https://sanantonio.bcycle.com/,B-cycle
+USA,San Diego,560,City of San Diego,2014-10-30,,America/Los_Angeles,DecoBike,Discover Bike,Dock-based,http://www.discoverbikesandiego.com/,DecoBike
+USA,San Diego,9,,,,America/Los_Angeles,Spin,Spin,Dock-based,,Spin
+USA,San Francisco,2970,San Francisco Bay Area Metropolitan Transportation Commission,2013-08-29,,America/Los_Angeles,Lyft,Bay Wheels,Dock-based,https://www.lyft.com/bikes/bay-wheels,PBSC
+USA,San Jose,967,San Francisco Bay Area Metropolitan Transportation Commission,2013-08-29,,America/Los_Angeles,Lyft,Bay Wheels,Dock-based,https://www.lyft.com/bikes/bay-wheels,PBSC
+USA,San Jose Airport Place ,50,,,,America/Los_Angeles,Zagster,Hudson Pacific Properties,Dock-based,http://zagster.com/hudsonpacific/,Zagster
+USA,San Mateo,50,City of San Mateo,2016-05-06,,America/Los_Angeles,Social Bicycles,Bay Bike Share,Hybrid,https://www.baybikeshare.com/,SoBi
+USA,Santa Barbara (University of California),0,UC Santa Barbara,,,America/Los_Angeles,Hopr,HOPR Bike Share,Dock-based,https://gohopr.com/ucsb/,Hopr
+USA,Santa Cruz,590,City of Santa Cruz,2018-05-15,,America/Los_Angeles,JUMP by Uber,JUMP,Dock-based,https://www.jump.com/us/en/cities/santa-cruz/,SoBi
+USA,Santa Monica,356,City of Santa Monica,2015-11-12,2020-11-07,America/Los_Angeles,CycleHop,Bike Share Connect,Hybrid,http://bikeshareconnect.com/,SoBi
+USA,Saratoga Springs,200,Capital District Transportation Authority,2017-07-27,,America/New_York,SoBi,CDPHP Cycle!,Hybrid,https://cdphpcycle.com/,SoBi
+USA,Scheneclady,200,Capital District Transportation Authority,2017-07-27,,America/New_York,SoBi,CDPHP Cycle!,Hybrid,https://cdphpcycle.com/,SoBi
+USA,Seattle,84,,,,America/Los_Angeles,,Pronto,, http://www.prontocycleshare.com/,
+USA,South Florida (University Of),100,,2015-12-07,,America/New_York,Hopr,Coast Bike Share,Pure dockless,http://coastbikeshare.com/,Hopr
+USA,Space Coast,50,,,,America/New_York,Zagster,Space Coast,Dock-based,http://zagster.com/spacecoast/,Zagster
+USA,St George,50,,,,America/Denver,Zagster,Live Well St. George,Dock-based,http://zagster.com/livewellstg/,Zagster
+USA,St. Petersburg,200,,2015-12-07,,America/New_York,CycleHop,Coast Bike Share,Hybrid,http://coastbikeshare.com/,SoBi
+USA,State College,295,PennState Transportation Services,2021-08-16,,America/New_York,Spin,Spin,Dock-based,https://transportation.psu.edu/spin-e-bike-share-program,Segway Ninebot Urban A200
+USA,Stony Brook University,12,Stony Brook University,2013-04-19,,America/New_York,Stony Brook University,Wolf Ride Bike Share,Dock-based,https://www.stonybrook.edu/commcms/sustainability/transportation/_Wolf_Ride_Bike_Share/,PBSC
+USA,Tampa,300,,2015-12-07,,America/New_York,Hopr,Coast Bike Share,Virtual zone dockless,http://coastbikeshare.com/,Hopr
+USA,Topeka,179,Topeka Metropolitan Transit Authority,2015-04-15,2020-07-30,America/Chicago,Topeka Metropolitan Transit Authority,Topeka Metro Bikes,Hybrid,https://topekametrobikes.org/,SoBi
+USA,Tucson,300,City of Tucson,2017-11-17,,America/Phoenix,Shift Transit (PBSC),tugo,Dock-based,https://tugobikeshare.com/,PBSC
+USA,Tulsa,100,City of Tulsa,2018-07-27,2020-06-29,America/Chicago,BCycle,This Machine,Hybrid,https://thismachine.bcycle.com/,BCycle
+USA,UC San Diego,52,,,,America/Los_Angeles,Spin,Spin,Dock-based,,Spin
+USA,UCLA,703,UCLA Transportation,2016-05-10,,America/Los_Angeles,CycleHop,Bruin Bike Share,Hybrid,http://bruinbikeshare.com/,SoBi
+USA,Virginia UVA,86,University of Virginia,,2020-05-18,America/New_York,University of Virginia Parking and Transportation,UBike,Hybrid,http://ubike.virginia.edu/,SoBi
+USA,Warren GM Campus,50,,,,America/New_York,Zagster,GM,Dock-based,http://zagster.com/gm/,Zagster
+USA,Washington DC,4502,District Department of Transportation,2010-09-01,,America/New_York,Motivate,Capital Bikeshare,Dock-based,https://www.capitalbikeshare.com/,8D
+USA,Washington DC,300,District Department of Transportation,,,America/New_York,Lime,JUMP by Lime,Dockless,https://dc.jumpmobility.com,JUMP
+USA,Washington DC,0,DDOT,,,America/New_York,Helbiz,Helbiz,Dock-based,https://helbiz.com/bike,Helbiz
+USA,Washington DC (JUMP Scooters),0,DDOT,,,America/New_York,JUMP,JUMP,Dockless Scooters,,SoBi
+USA,Washington DC Lime,300,District Department of Transportation,2017-09-01,,America/New_York,Lime,Lime,Dockless Scooters,https://www.li.me/,Lime
+USA,Washington DC Lyft,0,District Department of Transportation,,,America/New_York,Lyft,Lyft Scooters,Dockless Scooters,https://www.lyft.com/scooters/washington-dc,Lyft
+USA,Washington DC Mobike,300,District Department of Transportation,,,America/New_York,Mobike,Mobike,Dockless,,Mobike
+USA,Washington DC Skip,0,District Department of Transportation,,2021-01-15,America/New_York,Skip,Skip,Dockless Scooters,https://skipscooters.com/,Skip
+USA,Washington DC Spin,300,District Department of Transportation,,,America/New_York,Spin,Spin,Dockless Scooters,https://www.spin.pm/,Spin
+USA,West Hollywood,100,City of West Hollywood,2016-08-30,,America/Los_Angeles,CycleHop,WeHo Pedals,Hybrid,http://www.wehopedals.com/,SoBi
+USA,West Palm Beach,0,City of West Palm Beach,,,America/New_York,nextbike,SkyBike,Dock-based,https://skybikewpb.com/,nextbike
+USA,Wichita,50,,,,America/Denver,Zagster,Bike Share ICT,Dock-based,http://zagster.com/bikeshareict/,Zagster
+USA,Winston-Salem,50,,,,America/New_York,Zagster,"Winston-Salem, NC",Dock-based,http://zagster.com/winstonsalem/,Zagster
